@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<title>CHO R1 P012 — 作画試作 v1 未承認</title>
+<desc>原稿v4 P012の3コマに基づく編集可能なベクター作画ラフ。右から左、上から下。台詞は「……ある。」のみ。</desc>
+<defs><pattern id="tone" width="9" height="9" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#777"/></pattern><linearGradient id="gray"><stop stop-color="#eee"/><stop offset="1" stop-color="#999"/></linearGradient></defs>
+<rect width="1600" height="900" fill="white"/>
+<g id="panels" stroke="#171717" stroke-width="8" fill="none"><rect x="28" y="28" width="740" height="330"/><rect x="790" y="28" width="782" height="330"/><rect x="28" y="378" width="1544" height="494"/></g>
+<!-- Reading order: top right 1, top left 2, bottom 3 -->
+<g id="panel-1-cover-lift" stroke="#222" stroke-linecap="round" stroke-linejoin="round">
+<path d="M820 310 L820 170 Q825 105 905 103 L1290 103 Q1360 105 1390 165 L1390 312" fill="#e6e6e6" stroke-width="5"/>
+<path d="M840 290 Q1000 240 1240 268 L1360 278" fill="none" stroke-width="3"/>
+<path d="M920 103 Q1080 70 1245 103" fill="none" stroke-width="5"/>
+<g id="shirasaki-arm" fill="none" stroke-width="7"><path d="M1528 330 Q1470 255 1410 202 Q1378 175 1353 165"/><path d="M1353 165 Q1332 157 1320 138 Q1315 125 1326 122 L1354 145 Q1363 119 1373 119 Q1382 122 1378 145 Q1395 126 1403 133 Q1411 141 1393 160 Q1415 150 1422 159 Q1426 169 1399 182"/></g>
+<path d="M1425 202 Q1445 172 1454 151" fill="none" stroke="#888" stroke-width="2"/>
+</g>
+<g transform="translate(-465,-140) scale(0.92,0.48)" id="panel-2-right-hand" stroke="#222" stroke-linecap="round" stroke-linejoin="round">
+<path d="M1090 848 Q1084 775 1096 710 Q1108 655 1082 610 L1052 541 Q1040 508 1057 499 Q1073 492 1087 518 L1136 588 L1118 465 Q1115 436 1133 430 Q1150 429 1156 455 L1176 557 L1184 423 Q1186 391 1206 391 Q1228 393 1225 425 L1223 559 L1252 446 Q1259 419 1277 424 Q1297 431 1290 455 L1264 581 L1314 500 Q1330 477 1346 489 Q1361 500 1344 524 L1296 629 Q1276 688 1288 743 L1314 848" fill="#fff" stroke-width="8"/>
+<path d="M1100 680 Q1180 713 1286 668 M1138 614 Q1173 632 1203 612 M1205 612 Q1234 628 1260 604" fill="none" stroke="#777" stroke-width="3"/>
+<path d="M1030 852 Q1055 827 1090 817 M1310 814 Q1355 828 1380 851" fill="none" stroke="#777" stroke-width="3"/>
+<path d="M823 842 L1000 842 M1390 842 L1550 842" stroke="#aaa" stroke-width="2"/>
+</g>
+<g transform="translate(0,350) scale(1.5,1.45)" id="panel-3-zero-reaction" stroke="#222" stroke-linejoin="round" stroke-linecap="round">
+<path d="M95 339 L95 220 Q120 148 201 149 Q267 157 300 221 L306 337" fill="#ddd" stroke-width="5"/>
+<path d="M130 334 Q115 265 145 211 Q160 184 197 190 Q245 180 268 235 L270 334" fill="#fff" stroke-width="5"/>
+<path d="M136 214 Q148 148 193 157 L217 137 L226 162 L251 155 L247 178 L277 189 L257 207 L237 198 L213 206 L186 195 L163 216" fill="#252525" stroke-width="3"/>
+<path d="M163 248 Q175 242 186 250 M221 249 Q232 242 244 249" fill="none" stroke-width="4"/>
+<ellipse cx="178" cy="253" rx="4" ry="7" fill="#222"/><ellipse cx="234" cy="253" rx="4" ry="7" fill="#222"/>
+<path d="M205 257 L201 278 L211 281 M193 307 Q204 302 216 308" fill="none" stroke-width="3"/>
+<path d="M118 338 Q158 318 193 337 L239 335 Q274 321 298 339" fill="url(#tone)" stroke-width="3"/>
+<path d="M323 86 Q332 59 365 59 L653 59 Q698 62 701 108 L701 211 Q696 245 659 245 L418 245 L377 283 L383 245 L364 245 Q327 239 323 203 Z" fill="#fff" stroke-width="5"/>
+</g>
+<g transform="translate(0,350) scale(1.5,1.45)" id="lettering" font-family="'Noto Sans CJK JP','Yu Gothic',sans-serif" font-weight="600" font-size="56" fill="#161616"><text x="385" y="163">……ある。</text></g>
+</svg>
