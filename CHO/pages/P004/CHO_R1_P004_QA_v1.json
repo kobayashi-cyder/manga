@@ -1,0 +1,46 @@
+{
+  "page": "P004",
+  "source_name_v2": true,
+  "panels": 4,
+  "reading_order": "right_to_left",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "strings": {
+    "shirasaki": "まず、今の身体を記録します。",
+    "zero": "これが、僕。"
+  },
+  "panel_1": {
+    "zero_clothed": true,
+    "non_invasive_sensors": true,
+    "no_real_medical_procedure": true
+  },
+  "panel_2": {
+    "shirasaki_operates_device": true,
+    "thin_platform_light": true,
+    "no_blade_or_syringe": true
+  },
+  "panel_3": {
+    "single_full_body_wireframe": true,
+    "same_standing_pose": true,
+    "healthy_hand_outlines": true,
+    "multiple_pose_display_removed": true
+  },
+  "panel_4": {
+    "zero_face_and_screen_face_opposed": true,
+    "screen_face_inset_matches_real_face_scale": true
+  },
+  "speech_text_within_balloon_safe_areas": true,
+  "a1_ethics_added": false,
+  "layers": [
+    "CHO_R1_P004_background_v1.png",
+    "CHO_R1_P004_text_layer_UTF8_v1.png",
+    "CHO_R1_P004_INTERNAL_PASS_v1.png",
+    "CHO_R1_P004_editable_v1.svg"
+  ],
+  "internal_qa": "PASS",
+  "user_approval": "PENDING",
+  "final": false,
+  "sha256": "787c2a7ab44af92304aead4f51ca4821441ee95fff192deb6f7e965e50d3e79e"
+}
