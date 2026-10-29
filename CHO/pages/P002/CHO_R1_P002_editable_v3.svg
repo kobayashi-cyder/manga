@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1672" height="941" viewBox="0 0 1672 941">
+<title>CHO R1 Vol1 P002 internal QA pass v3</title>
+<desc>Background and UTF-8 lettering are separated. User approval pending; not final.</desc>
+<g id="background"><image href="CHO_R1_P002_background_v3.png" x="0" y="0" width="1672" height="941"/></g>
+<g id="lettering" font-family="IPAexGothic, Noto Sans CJK JP, sans-serif" fill="#111">
+<text x="425" y="122" font-size="48" text-anchor="middle" fill="#fff">被験者　零号</text>
+<text x="670" y="252" font-size="34" text-anchor="middle">篠宮 零</text>
+<text x="1120" y="238" font-size="42" text-anchor="middle">篠宮 零</text>
+<text x="359" y="415" font-size="35" text-anchor="middle"><tspan x="359" dy="0">番号で呼ばれる</tspan><tspan x="359" dy="44">んですね。</tspan></text>
+<text x="1560" y="711" font-size="31" text-anchor="middle"><tspan x="1560" dy="0">君の名前も、</tspan><tspan x="1560" dy="41">ここに残る。</tspan></text>
+<text x="128" y="725" font-size="29" text-anchor="middle"><tspan x="128" dy="0">……篠宮零です。</tspan><tspan x="128" dy="39">よろしく</tspan><tspan x="128" dy="39">お願いします。</tspan></text>
+</g>
+</svg>

@@ -1,0 +1,25 @@
+{
+  "page": "P002",
+  "source_name_v2": true,
+  "panels": 5,
+  "reading_order": "right_to_left",
+  "dimensions": [1672, 941],
+  "strings": {
+    "signature": "篠宮 零",
+    "display": "被験者　零号",
+    "zero_number": "番号で呼ばれるんですね。",
+    "mikage": "君の名前も、ここに残る。",
+    "zero_name": "……篠宮零です。よろしくお願いします。"
+  },
+  "forbidden_strings": ["被験者同意書", "C-0042"],
+  "forbidden_strings_present_in_typeset_source": false,
+  "right_hand_signature": true,
+  "third_party_hand_restraint": false,
+  "character_continuity": {"zero": true, "mikage": true},
+  "a1_ethics_added": false,
+  "layers": ["CHO_R1_P002_background_v3.png", "CHO_R1_P002_text_layer_UTF8_v3.png", "CHO_R1_P002_INTERNAL_PASS_v3.png", "CHO_R1_P002_editable_v3.svg"],
+  "internal_qa": "PASS",
+  "user_approval": "PENDING",
+  "final": false,
+  "sha256": "1a3cead0c5ce471a266baf93d5d489e51c9557323c33fbf1a96527e089df9618"
+}
