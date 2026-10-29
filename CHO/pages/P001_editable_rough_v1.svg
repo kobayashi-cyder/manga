@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<title>CHO 第1話 止まる手 P001 作画ラフ v1</title>
+<desc>未承認編集候補v4のP001に基づく3コマ構成の編集可能なベクター作画ラフ。人物や手の描写は簡略化された線画。</desc>
+<defs><pattern id="dots" width="8" height="8" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#aaa"/></pattern><linearGradient id="night" x2="0" y2="1"><stop stop-color="#454545"/><stop offset="1" stop-color="#e0e0e0"/></linearGradient></defs>
+<rect width="1600" height="900" fill="white"/>
+<g id="panel-borders" fill="none" stroke="#111" stroke-width="9"><rect x="28" y="25" width="1544" height="492"/><rect x="820" y="537" width="752" height="336"/><rect x="28" y="537" width="770" height="336"/></g>
+<g id="panel-1-lab" stroke="#333" stroke-width="4" fill="none">
+<rect x="36" y="33" width="1528" height="476" fill="url(#night)"/>
+<path d="M200 35V470 M430 35V470 M670 35V470 M900 35V470 M1150 35V470 M1370 35V470 M36 160H1560 M36 340H1560" stroke="#777" stroke-width="12"/>
+<path d="M45 430H1560 M55 480L480 300H1130L1560 480" stroke="#222" stroke-width="7"/>
+<path d="M850 80H1290V465H850Z M910 80V465 M1220 80V465" fill="#bbb" stroke-width="9"/>
+<path d="M100 140H410V400H100Z M115 150L395 390 M395 150L115 390" stroke="#777" stroke-width="4"/>
+<g id="zero-longshot" fill="#eee" stroke="#171717" stroke-width="5">
+<path d="M655 483L651 370Q649 349 677 340L705 332L731 342Q753 350 754 372L750 484Z"/>
+<path d="M678 347L685 317H717L724 347" fill="#ddd"/>
+<path d="M674 307Q662 279 675 265L688 249L700 258L710 247L730 266L733 294L719 315Z" fill="#202020"/>
+<path d="M670 365L655 470 M736 365L749 470 M692 375L707 450" fill="none"/>
+<path d="M675 485L678 515 M733 485L735 515" stroke="#222" stroke-width="13"/>
+<path d="M658 358L641 398L652 444 M743 357L763 410L750 443" fill="none"/>
+</g>
+</g>
+<g id="panel-1-letters" font-family="'Noto Sans CJK JP',sans-serif" fill="#111">
+<rect x="52" y="44" width="290" height="126" fill="white" opacity=".96"/>
+<text x="68" y="103" font-size="70" font-family="serif">CHO</text>
+<text x="70" y="142" font-size="28">第1話　止まる手</text>
+<rect x="1318" y="444" width="226" height="44" fill="white"/>
+<text x="1330" y="476" font-size="27">東都生体研究所</text>
+</g>
+<g id="panel-2-hand" stroke="#222" stroke-width="6" fill="#f5f5f5" stroke-linecap="round" stroke-linejoin="round">
+<rect x="828" y="545" width="736" height="319" fill="#eee" stroke="none"/>
+<path d="M890 831L1450 831 M1000 555V850 M1350 555V850" fill="none" stroke="#ccc" stroke-width="7"/>
+<path d="M1065 872L1110 786Q1128 758 1155 750L1190 735L1175 705Q1156 684 1168 672Q1180 661 1200 678L1232 703L1220 654Q1214 630 1229 626Q1243 624 1249 644L1265 685L1260 627Q1259 606 1275 607Q1291 608 1290 628L1294 686L1308 647Q1316 628 1329 638Q1340 646 1333 661L1320 710Q1337 682 1350 696Q1359 706 1344 723L1309 769Q1288 791 1267 795L1222 809L1190 872Z"/>
+<path d="M1170 756L1210 782L1255 781 M1210 715L1240 734 M1250 706L1271 728" fill="none" stroke="#999" stroke-width="2"/>
+<path d="M1095 866L1155 796" stroke="#333" stroke-width="15"/>
+</g>
+<g id="panel-3-mikage-zero" stroke="#222" stroke-linecap="round" stroke-linejoin="round">
+<rect x="36" y="545" width="754" height="319" fill="url(#dots)" stroke="none"/>
+<path d="M310 550V860 M330 550V860" stroke="#777" stroke-width="10"/>
+<g id="mikage" stroke-width="5">
+<path d="M90 864L106 716Q113 677 161 673L216 673Q264 679 281 726L299 864Z" fill="white"/>
+<path d="M154 681L170 717L186 737L207 704L218 677" fill="#ccc"/>
+<path d="M137 627Q132 578 170 569Q224 558 233 614L221 669L179 694L145 671Z" fill="#eee"/>
+<path d="M135 616Q140 563 184 559Q227 556 239 601L218 588L185 594L157 588Z" fill="#292929"/>
+<path d="M144 628L174 631L176 647L146 645Z M181 631L214 626L215 644L184 648Z M174 634L184 634" fill="none"/>
+<path d="M172 673Q185 685 199 670 M173 655L190 655" stroke-width="3" fill="none"/>
+</g>
+<g id="zero-profile" stroke-width="5">
+<path d="M545 866L540 765Q548 735 579 722L641 720Q683 731 700 770L708 866Z" fill="#f7f7f7"/>
+<path d="M581 729L594 696L650 692L662 735" fill="#ddd"/>
+<path d="M575 654Q566 614 596 593Q641 571 669 612L663 674L640 702L595 693Z" fill="#eee"/>
+<path d="M566 646L574 601L600 583L619 589L634 575L645 592L663 585L682 611L665 640L650 625L621 632L600 618Z" fill="#222"/>
+<path d="M600 650L616 649 M627 674L641 676" fill="none" stroke-width="3"/>
+<path d="M575 746L548 852 M678 750L702 853" fill="none" stroke="#999" stroke-width="3"/>
+</g>
+</g>
+<g id="dialogue" font-family="'Noto Sans CJK JP',sans-serif" font-size="28" fill="#111" text-anchor="middle">
+<ellipse cx="401" cy="640" rx="109" ry="77" fill="white" stroke="#111" stroke-width="4"/>
+<text x="401" y="631">待っていたよ、</text><text x="401" y="666">零。</text>
+<ellipse cx="735" cy="612" rx="48" ry="60" fill="white" stroke="#111" stroke-width="3"/>
+<text x="735" y="605" font-size="22">……</text><text x="735" y="635" font-size="22">はい。</text>
+</g>
+</svg>
