@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1672" height="941" viewBox="0 0 1672 941">
+  <title>CHO R1 P017 internal QA candidate</title>
+  <image id="character_background" x="0" y="0" width="1672" height="941" xlink:href="CHO_R1_P017_background_v1.png"/>
+  <image id="bubble_layer" x="0" y="0" width="1672" height="941" xlink:href="CHO_R1_P017_bubble_layer_v1.png"/>
+  <image id="text_utf8" x="0" y="0" width="1672" height="941" xlink:href="CHO_R1_P017_text_layer_UTF8_v1.png"/>
+</svg>
