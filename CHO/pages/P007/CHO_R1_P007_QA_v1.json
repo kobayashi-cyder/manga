@@ -1,0 +1,75 @@
+{
+  "page": "P007",
+  "source_name_v2": true,
+  "panels": 5,
+  "reading_order": "right_to_left_top_then_bottom",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "balloon_components": [
+    [
+      945,
+      51,
+      1092,
+      279
+    ],
+    [
+      28,
+      82,
+      158,
+      334
+    ],
+    [
+      1468,
+      466,
+      1656,
+      786
+    ]
+  ],
+  "strings": {
+    "panel_2_mikage": "怖いか。",
+    "panel_3_zero": "怖いです。",
+    "panel_4_shirasaki": "やめたいときは、言ってください。",
+    "panel_5_zero": "……はい。"
+  },
+  "panel_1": {
+    "opaque_white_cover": true,
+    "no_blade_or_procedure_tool": true,
+    "restraint_not_applied": true
+  },
+  "panel_2": {
+    "mikage_visible_to_zero": true
+  },
+  "panel_3": {
+    "zero_acknowledges_fear": true,
+    "no_bravado": true
+  },
+  "panel_4": {
+    "shirasaki_lowers_terminal": true,
+    "faces_zero": true,
+    "states_right_to_stop": true
+  },
+  "panel_5": {
+    "zero_exhales": true,
+    "healthy_right_hand_moves_toward_table": true,
+    "five_fingers": true,
+    "non_restraint_positioning": true
+  },
+  "extra_generated_text_removed": true,
+  "missing_panel_5_dialogue_restored": true,
+  "speech_text_within_balloon_safe_areas": true,
+  "a1_ethics_added": false,
+  "layers": [
+    "CHO_R1_P007_background_v1.png",
+    "CHO_R1_P007_bubble_layer_v1.png",
+    "CHO_R1_P007_text_layer_UTF8_v1.png",
+    "CHO_R1_P007_INTERNAL_PASS_v1.png",
+    "CHO_R1_P007_editable_v1.svg"
+  ],
+  "flattened_character_background_separation": "not_available_from_source",
+  "internal_qa": "PASS",
+  "user_approval": "PENDING",
+  "final": false,
+  "sha256": "5ceba4da408e60d0ef571ffa8bb6e081618e1598d78f9d347e1afe4c568bcb52"
+}
