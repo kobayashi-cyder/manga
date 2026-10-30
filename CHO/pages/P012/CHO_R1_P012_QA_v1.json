@@ -1,0 +1,53 @@
+{
+  "page": "P012",
+  "source_name_v2": true,
+  "panels": 3,
+  "reading_order": "right_to_left",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "strings": {
+    "panel_3_zero": "……ある。"
+  },
+  "panel_1": {
+    "shirasaki_lifts_white_cover": true,
+    "arm_boundary_not_emphasized": true,
+    "no_regeneration_process_visible": true
+  },
+  "panel_2": {
+    "healthy_right_hand": true,
+    "five_fingers": true,
+    "ordinary_skin": true,
+    "no_wound": true,
+    "palm_lines_and_delicate_tone": true
+  },
+  "panel_3": {
+    "zero_looks_at_hand": true,
+    "eyes_regain_light": true,
+    "surprised_not_smiling": true,
+    "right_hand_five_fingers": true
+  },
+  "extra_generated_text_removed": true,
+  "speech_utf8_typeset": true,
+  "extra_numbers_sfx_medical_claims_added": false,
+  "a1_cause_method_ethics_added": false,
+  "balloon_component_box": [
+    23,
+    155,
+    174,
+    454
+  ],
+  "layers": [
+    "CHO_R1_P012_background_v1.png",
+    "CHO_R1_P012_bubble_layer_v1.png",
+    "CHO_R1_P012_text_layer_UTF8_v1.png",
+    "CHO_R1_P012_INTERNAL_PASS_v1.png",
+    "CHO_R1_P012_editable_v1.svg"
+  ],
+  "flattened_character_background_separation": "not_available_from_source",
+  "internal_qa": "PASS",
+  "user_approval": "PENDING",
+  "final": false,
+  "sha256": "3a0d638e6664933e56c7534f5ec02f88bdc06ab2a230d3f8f525666aac6616ef"
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1672" height="941" viewBox="0 0 1672 941">
+  <g id="background"><image x="0" y="0" width="1672" height="941" xlink:href="CHO_R1_P012_background_v1.png"/></g>
+  <g id="bubbles"><image x="0" y="0" width="1672" height="941" xlink:href="CHO_R1_P012_bubble_layer_v1.png"/></g>
+  <g id="text" font-family="IPAexGothic, sans-serif" text-anchor="middle" fill="#121212" font-size="30">
+    <text x="105" y="258">…</text><text x="105" y="297">…</text><text x="105" y="336">あ</text><text x="105" y="375">る</text><text x="105" y="414">。</text>
+  </g>
+</svg>
