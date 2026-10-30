@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1672" height="941" viewBox="0 0 1672 941">
+  <g id="background"><image x="0" y="0" width="1672" height="941" xlink:href="CHO_R1_P010_background_v1.png"/></g>
+  <g id="bubbles"><image x="0" y="0" width="1672" height="941" xlink:href="CHO_R1_P010_bubble_layer_v1.png"/></g>
+  <g id="text" font-family="IPAexGothic, sans-serif" text-anchor="middle" fill="#121212">
+    <text x="1162" y="180" font-size="23">反応が出ました。</text><text x="102" y="210" font-size="22">零、どんな感じがする。</text>
+    <text x="1560" y="570" font-size="22">ないはずの指が……。</text><text x="125" y="665" font-size="23">動く、気がします。</text>
+    <text x="1588" y="105" font-size="26">ピッ</text><text x="1466" y="205" font-size="34" fill="#fafafa">位置誤差</text>
+  </g>
+</svg>
