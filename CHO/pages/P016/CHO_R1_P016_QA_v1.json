@@ -1,0 +1,63 @@
+{
+  "page": "P016",
+  "source": "protected_v2_inside_CHO_R1_Vol1_180p_story_draft_v2.zip",
+  "source_sha256": "e46a7f9ee7b5871cfbdbe9660984ddad05e135b4ffd7bb05ab9b410d47eef654",
+  "unapproved_v4_applied": false,
+  "panels": 4,
+  "reading_order": "top_right_to_left_then_bottom_right_to_left",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "strings": [
+    "戻っただけじゃ、駄目だったんですか。",
+    "確かめたかったのは、止まることだ。",
+    "戻った手が、それ以上変わらない。",
+    "どこまでが僕の手か、知ってるみたいに。"
+  ],
+  "panel_1": {
+    "rei_alternates_gaze_between_hand_and_screen": true,
+    "right_hand_five_fingers": true
+  },
+  "panel_2": {
+    "mikage_looks_to_rei_hand": true,
+    "restrained_expression": true
+  },
+  "panel_3": {
+    "screen_hand_and_real_hand_contrasted": true,
+    "both_shapes_unchanged": true
+  },
+  "panel_4": {
+    "rei_opens_and_holds_right_hand_still": true,
+    "five_fingers": true
+  },
+  "generated_text_present_in_base": false,
+  "speech_utf8_typeset": true,
+  "extra_text_or_dialogue_added": false,
+  "gore_or_abnormal_growth": false,
+  "a1_cause_method_ethics_added": false,
+  "style_reference": [
+    "P015_INTERNAL_PASS_v1",
+    "P014_INTERNAL_PASS_v1"
+  ],
+  "layers": [
+    "CHO_R1_P016_background_v1.png",
+    "CHO_R1_P016_bubble_layer_v1.png",
+    "CHO_R1_P016_text_layer_UTF8_v1.png",
+    "CHO_R1_P016_INTERNAL_PASS_v1.png",
+    "CHO_R1_P016_editable_v1.svg"
+  ],
+  "flattened_character_background_separation": "not_available_from_generated_base",
+  "internal_qa": "PASS",
+  "visual_inspection": {
+    "composition_and_reading_order": "PASS",
+    "right_hands_and_five_fingers": "PASS",
+    "faces_and_gaze": "PASS",
+    "screen_and_real_hand_contrast": "PASS",
+    "utf8_text_readability": "PASS",
+    "continuity_with_p015_and_p017": "PASS"
+  },
+  "user_approval": "PENDING",
+  "final": false,
+  "sha256": "3c2bacf72d245ecd912aa6a23795ed12f85b0e1dd94ff2521a6274391eea6f41"
+}
