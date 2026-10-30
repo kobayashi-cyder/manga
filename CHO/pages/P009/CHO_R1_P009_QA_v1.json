@@ -1,0 +1,48 @@
+{
+  "page": "P009",
+  "source_name_v2": true,
+  "source_art_version": "v1",
+  "panels": 3,
+  "reading_order": "right_to_left",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "strings": {
+    "panel_2_zero": "……っ。",
+    "panel_3_display": "欠損検出"
+  },
+  "panel_1": {
+    "opaque_white_cover": true,
+    "only_clothed_sleeve_visible": true,
+    "right_hand_hidden": true,
+    "wound_blood_tools_absent": true
+  },
+  "panel_2": {
+    "zero_eyes_closed": true,
+    "brief_breath_hold": true,
+    "slight_sweat": true,
+    "pain_not_sensationalized": true
+  },
+  "panel_3": {
+    "conceptual_body_image": true,
+    "right_hand_region_blank": true,
+    "cut_surface_bone_absent": true
+  },
+  "v0_rejected_due_character_mismatch": true,
+  "extra_generated_text_removed": true,
+  "speech_and_display_utf8_typeset": true,
+  "a1_cause_method_ethics_added": false,
+  "layers": [
+    "CHO_R1_P009_background_v1.png",
+    "CHO_R1_P009_bubble_layer_v1.png",
+    "CHO_R1_P009_text_layer_UTF8_v1.png",
+    "CHO_R1_P009_INTERNAL_PASS_v1.png",
+    "CHO_R1_P009_editable_v1.svg"
+  ],
+  "flattened_character_background_separation": "not_available_from_source",
+  "internal_qa": "PASS",
+  "user_approval": "PENDING",
+  "final": false,
+  "sha256": "2951753dc7ff94ee29b83e1cd8eaaf74c67343db43acfd74130629918c246f02"
+}
