@@ -1,0 +1,60 @@
+{
+  "page": "P015",
+  "source": "protected_v2_inside_CHO_R1_Vol1_180p_story_draft_v2.zip",
+  "source_sha256": "e46a7f9ee7b5871cfbdbe9660984ddad05e135b4ffd7bb05ab9b410d47eef654",
+  "unapproved_v4_applied": false,
+  "panels": 3,
+  "reading_order": "top_then_bottom_right_then_bottom_left",
+  "dimensions": [
+    1671,
+    941
+  ],
+  "strings": {
+    "display_1": "位置誤差 0.000",
+    "display_2": "再生停止",
+    "shirasaki": "止まりました。"
+  },
+  "panel_1": {
+    "healthy_right_hand_outline": true,
+    "curve_settles": true,
+    "generated_glyphs": false
+  },
+  "panel_2": {
+    "ordinary_right_hand": true,
+    "five_fingers": true,
+    "no_change_or_motion": true
+  },
+  "panel_3": {
+    "rei_mikage_shirasaki_all_view_screen": true,
+    "shirasaki_exhales": true
+  },
+  "speech_and_display_utf8_typeset": true,
+  "extra_text_or_dialogue_added": false,
+  "gore_or_abnormal_growth": false,
+  "a1_cause_method_ethics_added": false,
+  "precision_display_review_note": "0.000 is retained from protected v2; editorial replacement remains unapproved",
+  "style_reference": [
+    "P014_INTERNAL_PASS_v1",
+    "P010_INTERNAL_PASS_v1"
+  ],
+  "layers": [
+    "CHO_R1_P015_background_v1.png",
+    "CHO_R1_P015_bubble_layer_v1.png",
+    "CHO_R1_P015_text_layer_UTF8_v1.png",
+    "CHO_R1_P015_INTERNAL_PASS_v1.png",
+    "CHO_R1_P015_editable_v1.svg"
+  ],
+  "flattened_character_background_separation": "not_available_from_generated_base",
+  "internal_qa": "PASS",
+  "visual_inspection": {
+    "composition_and_reading_order": "PASS",
+    "hands_and_fingers": "PASS",
+    "faces_and_gaze": "PASS",
+    "monitor_curve_and_display": "PASS",
+    "utf8_text_readability": "PASS",
+    "continuity_with_p014_and_p016": "PASS"
+  },
+  "user_approval": "PENDING",
+  "final": false,
+  "sha256": "3d1ad0899e94fb6accafab3df775da465aa952458650ee52fac8f3e58eaeff93"
+}
