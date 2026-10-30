@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1672" height="941" viewBox="0 0 1672 941">
+  <g id="background"><image x="0" y="0" width="1672" height="941" xlink:href="CHO_R1_P007_background_v1.png"/></g>
+  <g id="bubbles"><image x="0" y="0" width="1672" height="941" xlink:href="CHO_R1_P007_bubble_layer_v1.png"/></g>
+  <g id="text" font-family="IPAexGothic, sans-serif" fill="#121212" text-anchor="middle">
+    <text x="1018" y="175" font-size="24">怖いか。</text>
+    <text x="93" y="185" font-size="24">怖い</text><text x="93" y="222" font-size="24">です。</text>
+    <text x="1564" y="570" font-size="23">やめたい</text><text x="1564" y="605" font-size="23">ときは、</text><text x="1564" y="640" font-size="23">言って</text><text x="1564" y="675" font-size="23">ください。</text>
+    <text x="722" y="837" font-size="24">……はい。</text>
+  </g>
+</svg>
