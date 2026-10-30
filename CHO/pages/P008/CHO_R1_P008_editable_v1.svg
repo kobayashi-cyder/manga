@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1672" height="941" viewBox="0 0 1672 941">
+  <g id="background"><image x="0" y="0" width="1672" height="941" xlink:href="CHO_R1_P008_background_v1.png"/></g>
+  <g id="bubbles"><image x="0" y="0" width="1672" height="941" xlink:href="CHO_R1_P008_bubble_layer_v1.png"/></g>
+  <g id="text" font-family="IPAexGothic, sans-serif" fill="#121212" text-anchor="middle">
+    <text x="718" y="197" font-size="26">始めるか。</text>
+    <text x="99" y="650" font-size="25">始めて</text><text x="99" y="690" font-size="25">ください。</text>
+    <text x="151" y="365" font-size="29" fill="#fafafa">準備</text>
+  </g>
+</svg>
