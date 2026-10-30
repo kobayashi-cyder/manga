@@ -1,0 +1,64 @@
+{
+  "page": "P018",
+  "source": "protected_v2_inside_CHO_R1_Vol1_180p_story_draft_v2.zip",
+  "source_sha256": "e46a7f9ee7b5871cfbdbe9660984ddad05e135b4ffd7bb05ab9b410d47eef654",
+  "unapproved_v4_applied": false,
+  "panels": 3,
+  "reading_order": "top_right_to_left_then_full_width_bottom",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "strings": [
+    "僕の手の形は、どこにあったんですか。",
+    "体の中にあるとは、限らない。",
+    "次話　身体の地図"
+  ],
+  "panel_1": {
+    "rei_raises_healthy_right_hand": true,
+    "right_hand_five_fingers": true,
+    "question_expression": true
+  },
+  "panel_2": {
+    "mikage_looks_at_rei_then_saved_body_image": true,
+    "dialogue": false,
+    "silent_pause": true
+  },
+  "panel_3": {
+    "full_body_image_on_monitor": true,
+    "concept_lines_continue_outside_image": true,
+    "unknown_white_margin": true,
+    "real_people_glowing": false
+  },
+  "dialogue_scope": "Mikage statement retained exactly as protected v2 dialogue; not asserted as confirmed science",
+  "generated_text_present_in_base": false,
+  "speech_and_caption_utf8_typeset": true,
+  "extra_text_or_dialogue_added": false,
+  "gore_or_abnormal_growth": false,
+  "a1_cause_method_ethics_added": false,
+  "style_reference": [
+    "P017_INTERNAL_PASS_v1"
+  ],
+  "layers": [
+    "CHO_R1_P018_background_v1.png",
+    "CHO_R1_P018_bubble_layer_v1.png",
+    "CHO_R1_P018_text_layer_UTF8_v1.png",
+    "CHO_R1_P018_INTERNAL_PASS_v1.png",
+    "CHO_R1_P018_editable_v1.svg"
+  ],
+  "flattened_character_background_separation": "not_available_from_generated_base",
+  "internal_qa": "PASS",
+  "visual_inspection": {
+    "composition_and_reading_order": "PASS",
+    "right_hand_and_five_fingers": "PASS",
+    "faces_and_gaze": "PASS",
+    "silent_second_panel": "PASS",
+    "concept_lines_only_on_monitor": "PASS",
+    "unknown_white_margin": "PASS",
+    "utf8_text_readability": "PASS",
+    "continuity_with_p017_and_p019": "PASS"
+  },
+  "user_approval": "PENDING",
+  "final": false,
+  "sha256": "a237c22bd9d5b08980a2d69b2e7136cccd29036261be1f0e936b6235e3eacc9b"
+}
