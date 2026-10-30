@@ -1,0 +1,77 @@
+{
+  "page": "P005",
+  "source_name_v2": true,
+  "panels": 4,
+  "reading_order": "right_to_left",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "balloon_components": [
+    [
+      1467,
+      31,
+      1655,
+      367
+    ],
+    [
+      556,
+      31,
+      756,
+      436
+    ],
+    [
+      1485,
+      531,
+      1632,
+      798
+    ],
+    [
+      62,
+      510,
+      283,
+      866
+    ]
+  ],
+  "strings": {
+    "panel_1_mikage": "CHO。私たちは、そう呼んでいる。",
+    "panel_2_mikage": "身体を正しい位置へ戻す仕組みだと、考えている。",
+    "panel_3_zero": "考えている。",
+    "panel_4_mikage": "まだ、分からないことのほうが多い。",
+    "screen_header": "CHO",
+    "diagram_label": "概念図"
+  },
+  "panel_1": {
+    "body_image": true,
+    "conceptual_thin_lines": true,
+    "distinct_from_vessels_or_nerves": true
+  },
+  "panel_2": {
+    "simple_point_relationship": true,
+    "no_cells_or_organs": true,
+    "body_figure_removed": true
+  },
+  "panel_3": {
+    "zero_questions_explanation": true,
+    "looks_toward_mikage": true
+  },
+  "panel_4": {
+    "mikage_acknowledges_uncertainty": true,
+    "returns_gaze_to_screen": true
+  },
+  "extra_generated_text_removed": true,
+  "speech_text_within_balloon_safe_areas": true,
+  "a1_ethics_added": false,
+  "layers": [
+    "CHO_R1_P005_background_v1.png",
+    "CHO_R1_P005_diagram_layer_v1.png",
+    "CHO_R1_P005_text_layer_UTF8_v1.png",
+    "CHO_R1_P005_INTERNAL_PASS_v1.png",
+    "CHO_R1_P005_editable_v1.svg"
+  ],
+  "flattened_character_background_separation": "not_available_from_source",
+  "internal_qa": "PASS",
+  "user_approval": "PENDING",
+  "final": false,
+  "sha256": "dc05b4ff5682506fbec608872bb5a61373bde2b2455eb775b2468e5cb0d9a2cd"
+}
