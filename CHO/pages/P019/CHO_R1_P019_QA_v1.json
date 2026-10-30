@@ -1,0 +1,67 @@
+{
+  "page": "P019",
+  "episode": 2,
+  "source": "protected_v2_inside_CHO_R1_Vol1_180p_story_draft_v2.zip",
+  "source_sha256": "e46a7f9ee7b5871cfbdbe9660984ddad05e135b4ffd7bb05ab9b410d47eef654",
+  "unapproved_v4_applied": false,
+  "panels": 3,
+  "reading_order": "full_width_top_then_bottom_right_to_left",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "strings": [
+    "概念図",
+    "どこまで続いてるんですか。",
+    "そこを、まだ測れていない。"
+  ],
+  "panel_1": {
+    "frontal_monitor_from_p018": true,
+    "body_diagram": true,
+    "thin_auxiliary_lines_extend_outside_diagram": true,
+    "endpoints_unshown": true
+  },
+  "panel_2": {
+    "rei_healthy_right_hand": true,
+    "five_fingers": true,
+    "closing_opening_mid_motion": true,
+    "duplicate_hand_ghosting": false,
+    "not_matching_connection_line_shape": true
+  },
+  "panel_3": {
+    "mikage_profile": true,
+    "gaze_aligned_to_white_unknown_margin": true,
+    "uncertainty_retained": true
+  },
+  "concept_lines_only_on_monitor": true,
+  "generated_text_present_in_base": false,
+  "speech_and_label_utf8_typeset": true,
+  "extra_text_or_dialogue_added": false,
+  "gore_or_abnormal_growth": false,
+  "a1_cause_method_ethics_added": false,
+  "style_reference": [
+    "P018_INTERNAL_PASS_v1"
+  ],
+  "layers": [
+    "CHO_R1_P019_background_v1.png",
+    "CHO_R1_P019_bubble_layer_v1.png",
+    "CHO_R1_P019_text_layer_UTF8_v1.png",
+    "CHO_R1_P019_INTERNAL_PASS_v1.png",
+    "CHO_R1_P019_editable_v1.svg"
+  ],
+  "flattened_character_background_separation": "not_available_from_generated_base",
+  "internal_qa": "PASS",
+  "visual_inspection": {
+    "composition_and_reading_order": "PASS",
+    "monitor_continuity_from_p018": "PASS",
+    "right_hand_and_five_fingers": "PASS",
+    "no_duplicate_hand_ghosting": "PASS",
+    "mikage_profile_and_gaze": "PASS",
+    "concept_lines_endpoints_unshown": "PASS",
+    "utf8_text_readability": "PASS",
+    "continuity_with_p018_and_p020": "PASS"
+  },
+  "user_approval": "PENDING",
+  "final": false,
+  "sha256": "505d33d71629af4026e6bf962d985a012345eed1cb1dbd0bca25be10b89f1335"
+}
