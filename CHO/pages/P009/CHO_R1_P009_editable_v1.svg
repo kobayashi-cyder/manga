@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1672" height="941" viewBox="0 0 1672 941">
+  <g id="background"><image x="0" y="0" width="1672" height="941" xlink:href="CHO_R1_P009_background_v1.png"/></g>
+  <g id="bubbles"><image x="0" y="0" width="1672" height="941" xlink:href="CHO_R1_P009_bubble_layer_v1.png"/></g>
+  <g id="text" font-family="IPAexGothic, sans-serif" text-anchor="middle">
+    <text x="600" y="570" font-size="25" fill="#121212">……っ。</text>
+    <text x="161" y="165" font-size="36" fill="#fafafa">欠損検出</text>
+  </g>
+</svg>
