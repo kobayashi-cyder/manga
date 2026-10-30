@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1672" height="941" viewBox="0 0 1672 941">
+  <g id="background"><image x="0" y="0" width="1672" height="941" xlink:href="CHO_R1_P013_background_v1.png"/></g>
+  <g id="bubbles"><image x="0" y="0" width="1672" height="941" xlink:href="CHO_R1_P013_bubble_layer_v1.png"/></g>
+  <g id="text" font-family="IPAexGothic, sans-serif" text-anchor="middle" fill="#121212">
+    <text x="200" y="435" font-size="30">篠宮 零</text>
+    <text x="1375" y="578" font-size="29">感</text><text x="1375" y="618" font-size="29">覚</text><text x="1375" y="658" font-size="29">は</text><text x="1375" y="698" font-size="29">。</text>
+    <text x="821" y="556" font-size="27">…</text><text x="821" y="590" font-size="27">…</text><text x="821" y="624" font-size="27">僕</text><text x="821" y="658" font-size="27">の</text>
+    <text x="821" y="692" font-size="27">手</text><text x="821" y="726" font-size="27">で</text><text x="821" y="760" font-size="27">す</text><text x="821" y="794" font-size="27">。</text>
+  </g>
+</svg>

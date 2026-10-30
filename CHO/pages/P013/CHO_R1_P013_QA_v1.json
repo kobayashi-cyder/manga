@@ -1,0 +1,65 @@
+{
+  "page": "P013",
+  "source_name_v2": true,
+  "panels": 5,
+  "reading_order": "top_right_to_left_then_bottom_right_to_left",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "strings": {
+    "signature": "篠宮 零",
+    "shirasaki": "感覚は。",
+    "zero": "……僕の手です。"
+  },
+  "panel_1": {
+    "single_right_hand": true,
+    "five_fingers": true,
+    "no_afterimage_or_extra_digits": true
+  },
+  "panel_2": {
+    "shirasaki_places_paper": true,
+    "only_readable_paper_text": "篠宮 零"
+  },
+  "panel_3": {
+    "right_fingertips_pinching_paper_edge": true,
+    "thumb_and_index_contact": true
+  },
+  "panel_4": {
+    "zero_looks_between_fingertips_and_paper": true,
+    "right_hand_five_fingers": true
+  },
+  "panel_5": {
+    "shirasaki_expression_softens_slightly": true
+  },
+  "extra_generated_text_removed": true,
+  "signature_and_speech_utf8_typeset": true,
+  "extra_legal_text_numbers_sfx_added": false,
+  "a1_cause_method_ethics_added": false,
+  "balloon_component_boxes": {
+    "zero": [
+      752,
+      524,
+      885,
+      811
+    ],
+    "shirasaki": [
+      1315,
+      512,
+      1439,
+      705
+    ]
+  },
+  "layers": [
+    "CHO_R1_P013_background_v1.png",
+    "CHO_R1_P013_bubble_layer_v1.png",
+    "CHO_R1_P013_text_layer_UTF8_v1.png",
+    "CHO_R1_P013_INTERNAL_PASS_v1.png",
+    "CHO_R1_P013_editable_v1.svg"
+  ],
+  "flattened_character_background_separation": "not_available_from_source",
+  "internal_qa": "PASS",
+  "user_approval": "PENDING",
+  "final": false,
+  "sha256": "521ceccc0ae445ec72c2bdf05ebd9081b13875505e1e6d4669b58da8a6a07b9b"
+}
