@@ -1,0 +1,62 @@
+{
+  "page": "P014",
+  "source_name_v2": true,
+  "panels": 4,
+  "reading_order": "top_right_to_left_then_bottom_right_to_left",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "strings": {
+    "zero": "先生。",
+    "shirasaki": "形は、戻っています。"
+  },
+  "panel_1": {
+    "mikage_not_smiling": true,
+    "mikage_watches_measurement_screen": true
+  },
+  "panel_2": {
+    "healthy_right_hand_outline": true,
+    "single_moving_reaction_curve": true,
+    "no_labels_numbers_equations": true
+  },
+  "panel_3": {
+    "zero_notices_mikage": true,
+    "restored_right_hand_five_fingers": true,
+    "zero_not_smiling": true
+  },
+  "panel_4": {
+    "shirasaki_finger_stops_before_terminal": true,
+    "finger_terminal_contact": false,
+    "eyes_remain_on_screen": true
+  },
+  "generated_text_present_in_base": false,
+  "speech_utf8_typeset": true,
+  "extra_display_text_numbers_sfx_medical_claims_added": false,
+  "gore_or_abnormal_body_growth": false,
+  "a1_cause_method_ethics_added": false,
+  "style_reference": [
+    "P013_INTERNAL_PASS_v1",
+    "P010_INTERNAL_PASS_v1"
+  ],
+  "layers": [
+    "CHO_R1_P014_background_v1.png",
+    "CHO_R1_P014_bubble_layer_v1.png",
+    "CHO_R1_P014_text_layer_UTF8_v1.png",
+    "CHO_R1_P014_INTERNAL_PASS_v1.png",
+    "CHO_R1_P014_editable_v1.svg"
+  ],
+  "flattened_character_background_separation": "not_available_from_generated_base",
+  "internal_qa": "PASS",
+  "visual_inspection": {
+    "composition_and_reading_order": "PASS",
+    "hands_and_fingers": "PASS",
+    "faces_and_gaze": "PASS",
+    "background_and_monitor": "PASS",
+    "utf8_text_readability": "PASS",
+    "continuity_with_p013_and_p015": "PASS"
+  },
+  "user_approval": "PENDING",
+  "final": false,
+  "sha256": "ed67a3e9843aa80b374ce793be3fce02428382eec6ecb482117c27390eb36d24"
+}
