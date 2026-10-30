@@ -1,0 +1,67 @@
+{
+  "page": "P006",
+  "source_name_v2": true,
+  "panels": 4,
+  "reading_order": "right_to_left",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "balloon_components": [
+    [
+      1399,
+      26,
+      1655,
+      382
+    ],
+    [
+      593,
+      28,
+      820,
+      381
+    ],
+    [
+      25,
+      502,
+      201,
+      851
+    ]
+  ],
+  "strings": {
+    "panel_1_zero": "分かれば、失ったものを取り戻せる人がいるんですね。",
+    "panel_2_mikage": "今、誰かに約束することはできない。",
+    "panel_4_zero": "それでも、確かめたいです。"
+  },
+  "panel_1": {
+    "zero_hand_and_shadow": true,
+    "healthy_five_fingers": true
+  },
+  "panel_2": {
+    "mikage_expression_stricter": true,
+    "looks_at_zero": true
+  },
+  "panel_3": {
+    "zero_closes_palm": true,
+    "hand_on_own_knee": true,
+    "dialogue": false
+  },
+  "panel_4": {
+    "zero_makes_eye_contact": true,
+    "no_heroic_smile": true
+  },
+  "no_invented_tragedy": true,
+  "extra_generated_text_removed": true,
+  "speech_text_within_balloon_safe_areas": true,
+  "a1_ethics_added": false,
+  "layers": [
+    "CHO_R1_P006_background_v1.png",
+    "CHO_R1_P006_text_layer_UTF8_v1.png",
+    "CHO_R1_P006_INTERNAL_PASS_v1.png",
+    "CHO_R1_P006_editable_v1.svg"
+  ],
+  "flattened_character_background_separation": "not_available_from_source",
+  "internal_qa": "PASS",
+  "user_approval": "PENDING",
+  "final": false,
+  "sha256": "487e1f01754009f51df7a6bad78f338b0c0d58010a0a80b8ba651d10ae760529"
+}
