@@ -1,0 +1,47 @@
+{
+  "page": "P008",
+  "source_name_v2": true,
+  "panels": 4,
+  "reading_order": "right_to_left_top_then_bottom",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "strings": {
+    "terminal": "準備",
+    "panel_2_mikage": "始めるか。",
+    "panel_4_zero": "始めてください。"
+  },
+  "panel_1": {
+    "zero_places_healthy_right_hand_himself": true,
+    "hand_tip_fully_hidden": true,
+    "shirasaki_not_restraining": true
+  },
+  "panel_2": {
+    "mikage_glasses_reflect_terminal": true,
+    "terminal_ready": true
+  },
+  "panel_3": {
+    "left_hand_clenched_on_lap": true,
+    "right_cover_opaque": true
+  },
+  "panel_4": {
+    "zero_opens_eyes": true,
+    "zero_explicitly_chooses_start": true
+  },
+  "extra_generated_text_removed": true,
+  "speech_and_display_utf8_typeset": true,
+  "a1_ethics_added": false,
+  "layers": [
+    "CHO_R1_P008_background_v1.png",
+    "CHO_R1_P008_bubble_layer_v1.png",
+    "CHO_R1_P008_text_layer_UTF8_v1.png",
+    "CHO_R1_P008_INTERNAL_PASS_v1.png",
+    "CHO_R1_P008_editable_v1.svg"
+  ],
+  "flattened_character_background_separation": "not_available_from_source",
+  "internal_qa": "PASS",
+  "user_approval": "PENDING",
+  "final": false,
+  "sha256": "940338d70b473ddda7ced760bc5bf31298291de54461f73d29cf93bf010e82ed"
+}
