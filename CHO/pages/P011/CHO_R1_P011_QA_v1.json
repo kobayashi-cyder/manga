@@ -1,0 +1,50 @@
+{
+  "page": "P011",
+  "source_name_v2": true,
+  "panels": 3,
+  "reading_order": "top_then_bottom_right_to_left",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "strings": {
+    "panel_3_zero": "……ほんとうに。"
+  },
+  "panel_1": {
+    "abstract_connection_diagram": true,
+    "lines_converge_toward_five_finger_outline": true,
+    "no_bone_flesh_blood_vessels": true,
+    "enlarged_reference_hand_more_detailed_than_name": true
+  },
+  "panel_2": {
+    "shirasaki_stops_before_cover": true,
+    "hand_cover_contact": false,
+    "cover_remains_opaque": true
+  },
+  "panel_3": {
+    "zero_eyes_open_wide": true,
+    "surprised_not_smiling": true
+  },
+  "extra_generated_text_removed": true,
+  "speech_utf8_typeset": true,
+  "extra_numbers_sfx_medical_claims_added": false,
+  "a1_cause_method_ethics_added": false,
+  "balloon_component_box": [
+    23,
+    497,
+    200,
+    855
+  ],
+  "layers": [
+    "CHO_R1_P011_background_v1.png",
+    "CHO_R1_P011_bubble_layer_v1.png",
+    "CHO_R1_P011_text_layer_UTF8_v1.png",
+    "CHO_R1_P011_INTERNAL_PASS_v1.png",
+    "CHO_R1_P011_editable_v1.svg"
+  ],
+  "flattened_character_background_separation": "not_available_from_source",
+  "internal_qa": "PASS",
+  "user_approval": "PENDING",
+  "final": false,
+  "sha256": "d10647bcb5bf506f9c1f66387f4cb09f4d07bbbf66b70eefe5894f43009e00cd"
+}
