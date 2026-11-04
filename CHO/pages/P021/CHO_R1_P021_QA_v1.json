@@ -1,0 +1,69 @@
+{
+  "page": "P021",
+  "episode": 2,
+  "source": "protected_v2_inside_CHO_R1_Vol1_180p_story_draft_v2.zip",
+  "source_sha256": "e46a7f9ee7b5871cfbdbe9660984ddad05e135b4ffd7bb05ab9b410d47eef654",
+  "unapproved_v4_applied": false,
+  "panels": 4,
+  "reading_order": "top_right_to_left_then_bottom_right_to_left",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "strings": [
+    "今日はもう十分です。続けるなら、明日でも。",
+    "今の感覚を、忘れたくないんです。",
+    "測ることと、無理をさせることは違う。",
+    "じゃあ、できる範囲で。僕がやめると言ったら終わりで。",
+    "約束します。"
+  ],
+  "panel_1": {
+    "shirosaki_front": true,
+    "gaze_on_rei_not_hand": true
+  },
+  "panel_2": {
+    "rei_face_and_healthy_right_hand": true,
+    "single_clench": true
+  },
+  "panel_3": {
+    "mikage_side_or_over_shoulder": true,
+    "record_terminal_at_rest": true
+  },
+  "panel_4": {
+    "rei_seated": true,
+    "negotiated_stop_right": true,
+    "shirosaki_promise": true,
+    "open_space_retained": true
+  },
+  "generated_text_present_in_base": false,
+  "speech_utf8_typeset": true,
+  "extra_text_or_dialogue_added": false,
+  "right_hand_injury_or_new_treatment": false,
+  "gore_or_abnormal_growth": false,
+  "a1_cause_method_ethics_added": false,
+  "reuse_sources": [
+    "P017_background_v1",
+    "P018_background_v1",
+    "P020_background_v1"
+  ],
+  "layers": [
+    "CHO_R1_P021_background_v1.png",
+    "CHO_R1_P021_bubble_layer_v1.png",
+    "CHO_R1_P021_text_layer_UTF8_v1.png",
+    "CHO_R1_P021_INTERNAL_PASS_v1.png",
+    "CHO_R1_P021_editable_v1.svg"
+  ],
+  "flattened_character_background_separation": "not_available_from_source_panels",
+  "visual_inspection": {
+    "four_panels_and_reading_order": "PASS",
+    "character_continuity_p017_p018_p020": "PASS",
+    "rei_healthy_right_hand_and_fingers": "PASS",
+    "gaze_and_personal_agency": "PASS",
+    "utf8_vertical_typesetting": "PASS",
+    "p020_p022_connection": "PASS"
+  },
+  "internal_qa": "PASS",
+  "user_approval": "PENDING",
+  "final": false,
+  "sha256": "24b57e376bb76bd51b705eaf5d86fba7d1aecbe47152298f7795069b709a17ef"
+}
