@@ -1,0 +1,69 @@
+{
+  "page": "P022",
+  "episode": 2,
+  "source": "protected_v2_inside_CHO_R1_Vol1_180p_story_draft_v2.zip",
+  "source_sha256": "e46a7f9ee7b5871cfbdbe9660984ddad05e135b4ffd7bb05ab9b410d47eef654",
+  "unapproved_v4_applied": false,
+  "panels": 4,
+  "reading_order": "top_right_to_left_then_bottom_right_to_left",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "strings": [
+    "あ。",
+    "感覚はある。けど、少し距離が変な感じがする。",
+    "本人の感覚：距離感に違和感",
+    "そのまま残します。"
+  ],
+  "panel_1": {
+    "signed_paper_present": true,
+    "healthy_right_hand_pinches_corner": true,
+    "dialogue": null
+  },
+  "panel_2": {
+    "paper_slips_slightly": true,
+    "corner_folds": true,
+    "symptom_not_exaggerated": true
+  },
+  "panel_3": {
+    "rei_holds_paper_again": true,
+    "subjective_distance_sensation": true
+  },
+  "panel_4": {
+    "white_coat_records_report": true,
+    "record_text_exact": "本人の感覚：距離感に違和感",
+    "does_not_dismiss_with_numbers": true
+  },
+  "generated_text_present_in_base": false,
+  "speech_and_record_utf8_typeset": true,
+  "extra_text_or_dialogue_added": false,
+  "right_hand_injury_or_new_treatment": false,
+  "gore_or_abnormal_growth": false,
+  "a1_cause_method_ethics_added": false,
+  "reuse_sources": [
+    "P013_background_v1",
+    "P020_background_v1"
+  ],
+  "layers": [
+    "CHO_R1_P022_background_v1.png",
+    "CHO_R1_P022_bubble_layer_v1.png",
+    "CHO_R1_P022_text_layer_UTF8_v1.png",
+    "CHO_R1_P022_INTERNAL_PASS_v1.png",
+    "CHO_R1_P022_editable_v1.svg"
+  ],
+  "flattened_character_background_separation": "not_available_from_source_panels",
+  "visual_inspection": {
+    "panel_count_and_order": "PASS",
+    "faces_and_gaze": "PASS",
+    "healthy_right_hand_and_fingers": "PASS",
+    "paper_corner_and_fold": "PASS",
+    "background_and_spatial_continuity": "PASS",
+    "utf8_text_readability": "PASS",
+    "p021_p023_connection": "PASS"
+  },
+  "internal_qa": "PASS",
+  "user_approval": "PENDING",
+  "final": false,
+  "sha256": "ccb132485ac181432a62914b8e37d29e78f145caeae56f6be9d8c19ba4c2f9a1"
+}
