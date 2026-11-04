@@ -1,0 +1,71 @@
+{
+  "page": "P020",
+  "episode": 2,
+  "source": "protected_v2_inside_CHO_R1_Vol1_180p_story_draft_v2.zip",
+  "source_sha256": "e46a7f9ee7b5871cfbdbe9660984ddad05e135b4ffd7bb05ab9b410d47eef654",
+  "unapproved_v4_applied": false,
+  "panels": 4,
+  "reading_order": "top_right_to_left_then_bottom_right_to_left",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "strings": [
+    "記録を閉じます。",
+    "再生停止",
+    "終わったんじゃないんですか。",
+    "観測したこと",
+    "まだ分からないこと",
+    "実験は終えた。説明は、まだだ。",
+    "だったら、手を貸します。"
+  ],
+  "panel_1": {
+    "shirosaki_closes_record": true,
+    "cover_moved_to_edge": true,
+    "new_treatment_to_right_hand": false
+  },
+  "panel_2": {
+    "display_exact_protected_v2": "再生停止",
+    "rei_looks_at_display": true
+  },
+  "panel_3": {
+    "mikage_hand_with_pen": true,
+    "two_record_sections": true,
+    "section_labels_utf8_typeset": true
+  },
+  "panel_4": {
+    "rei_eye_closeup": true,
+    "faint_smile_to_resolve": true
+  },
+  "visible_hands_natural": true,
+  "generated_text_present_in_base": false,
+  "speech_and_labels_utf8_typeset": true,
+  "extra_text_or_dialogue_added": false,
+  "gore_or_injury": false,
+  "a1_cause_method_ethics_added": false,
+  "style_reference": [
+    "P017_INTERNAL_PASS_v1",
+    "P019_INTERNAL_PASS_v1"
+  ],
+  "layers": [
+    "CHO_R1_P020_background_v1.png",
+    "CHO_R1_P020_bubble_layer_v1.png",
+    "CHO_R1_P020_text_layer_UTF8_v1.png",
+    "CHO_R1_P020_INTERNAL_PASS_v1.png",
+    "CHO_R1_P020_editable_v1.svg"
+  ],
+  "flattened_character_background_separation": "not_available_from_generated_base",
+  "visual_inspection": {
+    "four_panels_and_reading_order": "PASS",
+    "character_continuity_p017_p019": "PASS",
+    "hands_and_fingers": "PASS",
+    "no_new_treatment_to_rei_right_hand": "PASS",
+    "display_and_record_labels": "PASS",
+    "utf8_text_legibility": "PASS",
+    "p019_p021_connection": "PASS"
+  },
+  "internal_qa": "PASS",
+  "user_approval": "PENDING",
+  "final": false,
+  "sha256": "89c0184a713c251326fc90badd5e0fc120071ca55633f0d6c97b50da480dd27d"
+}
