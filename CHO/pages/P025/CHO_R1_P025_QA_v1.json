@@ -1,0 +1,58 @@
+{
+  "work": "CHO R1 Vol.1",
+  "page": "P025",
+  "version": "v1",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_sha256": "4cb4e13aeed9fa50f33de77f7fcc0b9c50fb6daff91d7c758dace4f85730fc9e",
+  "source_section": "P025",
+  "status": "INTERNAL_QA_PASS",
+  "author_approval": "PENDING",
+  "final_proof": false,
+  "panel_count": 5,
+  "reading_order": [
+    "P1 full-width",
+    "P2 middle-right",
+    "P3 middle-left",
+    "P4 bottom-right",
+    "P5 bottom-left"
+  ],
+  "required_strings": [
+    "正常",
+    "これが、答えですか。",
+    "何についての「正常」だ。",
+    "形状照合",
+    "形の検査だけです。",
+    "僕には、もう少し聞きたいことがあります。"
+  ],
+  "forbidden_strings": [
+    "被験者同意書",
+    "C-0042"
+  ],
+  "utf8_separate_typesetting": true,
+  "image_generation_text": false,
+  "v4_applied": false,
+  "a1_ethics_supplemented": false,
+  "visual_inspection": {
+    "result": "PASS",
+    "inspected_file": "CHO_R1_P025_INTERNAL_PASS_v1.png",
+    "checks": {
+      "five_panels_present": true,
+      "right_to_left_reading_order": true,
+      "rei_face_and_gaze": true,
+      "rei_healthy_right_hand_five_digits": true,
+      "mikage_hand_stopped_before_click": true,
+      "shirosaki_and_terminal_visible": true,
+      "speech_bubbles_do_not_hide_speaker_faces": true,
+      "utf8_japanese_legible": true,
+      "p024_p026_continuity": true,
+      "forbidden_extra_text_absent": true
+    }
+  },
+  "style": "Before-style grayscale, hand-drawn line variation retained; no FFT, edge enhancement, strong binarization",
+  "layers": [
+    "background-and-characters",
+    "speech-bubbles",
+    "utf8-japanese-text"
+  ],
+  "sha256": "8b1211e4408cd7b36bdc317312196b08a4358bd7ce67f9b96ca622d6311b3163"
+}
