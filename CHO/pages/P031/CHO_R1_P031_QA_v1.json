@@ -1,0 +1,31 @@
+{
+  "page": "P031",
+  "version": "v1",
+  "stage": "internal_qa_pass_user_pending",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_page_panels": 3,
+  "checks": {
+    "reading_order_top_middle_bottom": true,
+    "panel_count_3": true,
+    "dialogue_exact": true,
+    "panel2_silent": true,
+    "real_right_hand_between_paper_and_monitor": true,
+    "healthy_right_hand_five_fingers": true,
+    "paper_rough_outline_and_monitor_neat_outline": true,
+    "shirasaki_gaze_compares_three_references": true,
+    "rei_lifts_drawn_paper_with_right_hand": true,
+    "faces_hands_visual_check": true,
+    "text_readability": true,
+    "p030_p032_connection": true,
+    "before_handdrawn_graytone": true,
+    "no_new_a1_ethics_premise": true,
+    "unapproved_v4_not_applied": true,
+    "user_approved": false,
+    "final_proof": false
+  },
+  "exact_text": [
+    "ここに、あります。",
+    "描いた人が、間違えることもある。"
+  ],
+  "sha256": "8b50347847d6734d6e2c451ebe0225b96fab45bd2efb841e24e34a64c50c08c3"
+}
