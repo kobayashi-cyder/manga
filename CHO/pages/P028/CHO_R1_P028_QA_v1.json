@@ -1,0 +1,36 @@
+{
+  "page": "P028",
+  "version": "v1",
+  "stage": "internal_qa_pass_user_pending",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_page_panels": 4,
+  "checks": {
+    "rtl_reading_order": true,
+    "panel_count_4": true,
+    "dialogue_exact": true,
+    "display_exact_subjective_report": true,
+    "forbidden_unverified_absent": true,
+    "mikage_eye_focus": true,
+    "shirasaki_recording_hand": true,
+    "rei_right_hand_natural_on_desk": true,
+    "mikage_nod": true,
+    "faces_and_hands_visual_check": true,
+    "text_readability": true,
+    "p027_p029_connection": true,
+    "before_handdrawn_graytone": true,
+    "user_approved": false,
+    "final_proof": false
+  },
+  "exact_text": [
+    "主観報告",
+    "本人の証言を保存",
+    "装置は、本人の気持ちを測ったわけじゃない。",
+    "違う種類の記録として残せます。",
+    "別々で、いいんですね。",
+    "別々だから、比べられる。"
+  ],
+  "forbidden_text": [
+    "未検証"
+  ],
+  "sha256": "30eebd8e7b58e8daaf1fa79186ab44d23bc5a9d4b716e86273afa3d58c435310"
+}
