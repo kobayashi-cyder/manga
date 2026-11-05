@@ -1,0 +1,30 @@
+{
+  "page": "P029",
+  "version": "v1",
+  "stage": "internal_qa_pass_user_pending",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_page_panels": 4,
+  "checks": {
+    "rtl_reading_order": true,
+    "panel_count_4": true,
+    "dialogue_exact": true,
+    "panel3_silent": true,
+    "paper_backside_flip": true,
+    "shirasaki_hands_pen": true,
+    "right_hand_outline_five_fingers": true,
+    "left_hand_trace_stops": true,
+    "rei_closeup": true,
+    "faces_hands_visual_check": true,
+    "text_readability": true,
+    "p028_p030_connection": true,
+    "before_handdrawn_graytone": true,
+    "user_approved": false,
+    "final_proof": false
+  },
+  "exact_text": [
+    "僕が描いても、いいですか。",
+    "もちろん。",
+    "自分の手って、こんなに描きにくいんだ。"
+  ],
+  "sha256": "51c365e0f747d8e18d19a10a694c64712a71ea4f84356c88cbdbb64fe01a9536"
+}
