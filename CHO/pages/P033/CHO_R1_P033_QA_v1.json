@@ -1,0 +1,35 @@
+{
+  "page": "P033",
+  "version": "v1",
+  "stage": "internal_qa_pass_user_pending",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_page_panels": 4,
+  "checks": {
+    "reading_order_top_then_middle_rtl_then_bottom": true,
+    "panel_count_4": true,
+    "dialogue_exact": true,
+    "annotations_exact": true,
+    "target_field_exact": true,
+    "no_extra_identifiers_or_legal_text": true,
+    "shirasaki_hands_and_entry_action": true,
+    "rei_points_to_field": true,
+    "right_hand_five_digits_readable": true,
+    "shirasaki_opens_display_settings": true,
+    "faces_hands_visual_check": true,
+    "text_readability": true,
+    "p032_p034_connection": true,
+    "before_handdrawn_graytone": true,
+    "no_new_a1_ethics_premise": true,
+    "unapproved_v4_not_applied": true,
+    "user_approved": false,
+    "final_proof": false
+  },
+  "exact_text": [
+    "形状照合：停止",
+    "本人の感覚：経過確認",
+    "対象：零号",
+    "僕の言葉なのに、名前がない。",
+    "その通りですね。"
+  ],
+  "sha256": "fabd6f4c1793b04551b3e2545171fe96cf27ab00d38de3328f9ed16d416bc327"
+}
