@@ -1,0 +1,35 @@
+{
+  "page": "P027",
+  "version": "INTERNAL_PASS_v1",
+  "source": "v2 original",
+  "source_sha256": "4cb4e13aeed9fa50f33de77f7fcc0b9c50fb6daff91d7c758dace4f85730fc9e",
+  "final_sha256": "f2a53583e0cb35c1629b3473607ef94a9b2d55866b30f25abf9dbb39bc369234",
+  "dimensions": [
+    1054,
+    1492
+  ],
+  "panel_count": 3,
+  "text_method": "UTF-8 Japanese typeset with IPAexGothic on a separate transparent layer; no generated Japanese text",
+  "exact_texts": [
+    "言い方を決める前に、あなたの言葉を聞かせてください。",
+    "右手は、ここにある。触れます。",
+    "でも、全部元通りかは、僕にもまだ分からない。"
+  ],
+  "checks": {
+    "v2_three_panels_and_order": "pass",
+    "shirosaki_turns_record_toward_rei": "pass",
+    "rei_thinking_pause": "pass",
+    "rei_healthy_right_hand_visible": "pass",
+    "paper_corner_pinched_again": "pass",
+    "faces_hands_background": "pass",
+    "text_legibility": "pass",
+    "p026_p028_connection": "pass",
+    "v4_not_applied": "pass",
+    "A1_ethics_premise_not_supplemented": "pass"
+  },
+  "status": {
+    "internal_qa": "passed",
+    "user_approval": "pending",
+    "final_proof": "not_started"
+  }
+}\n
