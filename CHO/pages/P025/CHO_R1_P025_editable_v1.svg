@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1240" height="1754" viewBox="0 0 1240 1754">
+  <title>CHO R1 P025 editable composite</title>
+  <g id="background-and-characters"><image xlink:href="CHO_R1_P025_background_v1.png" x="0" y="0" width="1240" height="1754"/></g>
+  <g id="speech-bubbles"><image xlink:href="CHO_R1_P025_bubble_layer_v1.png" x="0" y="0" width="1240" height="1754"/></g>
+  <g id="utf8-japanese-text"><image xlink:href="CHO_R1_P025_text_layer_UTF8_v1.png" x="0" y="0" width="1240" height="1754"/></g>
+</svg>
