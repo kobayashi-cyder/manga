@@ -1,0 +1,73 @@
+{
+  "page": "P024",
+  "episode": 2,
+  "source": "protected_v2_original/CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_sha256": "e46a7f9ee7b5871cfbdbe9660984ddad05e135b4ffd7bb05ab9b410d47eef654",
+  "unapproved_v4_applied": false,
+  "panels": 4,
+  "reading_order": "top_right_to_left_then_bottom_right_to_left",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "strings": [
+    "装置の推定像",
+    "もう少しだけ、右へ。",
+    "これで、同じですか。",
+    "画面は固定の向きです。今の手とは撮り方が違う。"
+  ],
+  "panel_1": {
+    "simple_hand_outline_on_screen": true,
+    "device_estimate_label": true,
+    "dialogue": false
+  },
+  "panel_2": {
+    "rei_real_right_hand_in_front_of_screen": true,
+    "slight_wrist_rotation": true,
+    "speaker": "白崎"
+  },
+  "panel_3": {
+    "angle_guide_slightly_offset": true,
+    "speaker": "零"
+  },
+  "panel_4": {
+    "shirosaki_points_at_terminal": true,
+    "fixed_screen_vs_current_view_angle": true,
+    "speaker": "白崎"
+  },
+  "angle_difference_only_not_new_ability": true,
+  "generated_text_present_in_base": false,
+  "speech_and_label_utf8_typeset": true,
+  "extra_text_or_dialogue_added": false,
+  "right_hand_injury_or_new_treatment": false,
+  "gore_or_abnormal_growth": false,
+  "a1_cause_method_ethics_added": false,
+  "reuse_sources": [
+    "P014_background_v1",
+    "P016_background_v1"
+  ],
+  "layers": [
+    "CHO_R1_P024_background_v1.png",
+    "CHO_R1_P024_bubble_layer_v1.png",
+    "CHO_R1_P024_text_layer_UTF8_v1.png",
+    "CHO_R1_P024_INTERNAL_PASS_v1.png",
+    "CHO_R1_P024_editable_v1.svg"
+  ],
+  "flattened_character_background_separation": "not_available_from_source_panels",
+  "visual_inspection": {
+    "characters": "PASS",
+    "faces_and_gaze": "PASS",
+    "healthy_right_hand_and_five_fingers": "PASS",
+    "screen_hand_outline": "PASS",
+    "angle_mismatch_only": "PASS",
+    "shirosaki_pointing": "PASS",
+    "reading_order": "PASS",
+    "utf8_text_accuracy": "PASS",
+    "p023_to_p024_connection": "PASS",
+    "p024_to_p025_connection": "PASS"
+  },
+  "internal_qa": "PASS",
+  "user_approval": "PENDING",
+  "final": false,
+  "sha256": "d88820038668df7345623484562567feffab7a8042494734bab7a867dfa584f7"
+}
