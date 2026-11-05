@@ -1,0 +1,39 @@
+{
+  "page": "P026",
+  "version": "INTERNAL_PASS_v1",
+  "source": "v2 original",
+  "source_sha256": "4cb4e13aeed9fa50f33de77f7fcc0b9c50fb6daff91d7c758dace4f85730fc9e",
+  "final_sha256": "3cc2751d2ef55f575ec3347ba233c4182065243dcfeee6bfb575804605c329ec",
+  "dimensions": [
+    1054,
+    1492
+  ],
+  "panel_count": 4,
+  "text_method": "UTF-8 Japanese typeset with IPAexGothic on separate transparent layer; no generated text used",
+  "exact_texts": [
+    "未提出下書き",
+    "完全に元通り",
+    "『完全』って、何がですか。",
+    "……言い過ぎた。",
+    "形状指標の停止を確認",
+    "その方が、確かです。"
+  ],
+  "checks": {
+    "v2_four_panels_and_order": "pass",
+    "draft_is_explicitly_unsubmitted": "pass",
+    "no_extra_legal_or_identifier_text": "pass",
+    "rei_healthy_right_hand_visible": "pass",
+    "mikage_looks_down_and_deletes": "pass",
+    "shirosaki_offscreen": "pass",
+    "hands_faces_background_reading_order": "pass",
+    "text_legibility": "pass",
+    "p025_p027_connection": "pass",
+    "v4_not_applied": "pass",
+    "A1_ethics_premise_not_supplemented": "pass"
+  },
+  "status": {
+    "internal_qa": "passed",
+    "user_approval": "pending",
+    "final_proof": "not_started"
+  }
+}
