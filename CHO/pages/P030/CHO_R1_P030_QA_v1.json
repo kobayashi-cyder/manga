@@ -1,0 +1,31 @@
+{
+  "page": "P030",
+  "version": "v1",
+  "stage": "internal_qa_pass_user_pending",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_page_panels": 4,
+  "checks": {
+    "reading_order_top_mid_rtl_bottom": true,
+    "panel_count_4": true,
+    "dialogue_exact": true,
+    "panel1_silent": true,
+    "panel2_silent": true,
+    "rough_outline_five_fingers": true,
+    "neat_estimated_outline": true,
+    "both_lines_one_screen": true,
+    "shirasaki_places_comparison": true,
+    "mikage_lifts_paper": true,
+    "faces_hands_visual_check": true,
+    "text_readability": true,
+    "p029_p031_connection": true,
+    "page_turn_question_preserved": true,
+    "before_handdrawn_graytone": true,
+    "user_approved": false,
+    "final_proof": false
+  },
+  "exact_text": [
+    "こっちは、間違いですか。",
+    "どちらも、君の手そのものではない。"
+  ],
+  "sha256": "eb05ac9f4f16209d0c77009f1e2bfb478f235af1f2bcc54cd1648b0af8e1f412"
+}
