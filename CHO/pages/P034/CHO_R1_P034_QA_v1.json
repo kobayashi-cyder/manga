@@ -1,0 +1,37 @@
+{
+  "page": "P034",
+  "version": "v1",
+  "stage": "internal_qa_pass_user_pending",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_page_panels": 4,
+  "checks": {
+    "reading_order_top_then_middle_rtl_then_bottom": true,
+    "panel_count_4": true,
+    "dialogue_exact": true,
+    "attribution_exact": true,
+    "signature_exact": true,
+    "no_extra_ui_small_text": true,
+    "mikage_returns_terminal": true,
+    "shirasaki_receives_and_edits": true,
+    "rei_looks_at_signature": true,
+    "mikage_meets_gaze": true,
+    "hands_fingers_visual_check": true,
+    "faces_gaze_visual_check": true,
+    "text_readability": true,
+    "p033_p035_connection": true,
+    "before_handdrawn_graytone": true,
+    "no_new_a1_ethics_premise": true,
+    "unapproved_v4_not_applied": true,
+    "user_approved": false,
+    "final_proof": false
+  },
+  "exact_text": [
+    "本人による申告：篠宮零",
+    "篠宮 零",
+    "番号は管理のために要る。けれど……。",
+    "誰の言葉か、残せます。",
+    "僕の名前、最初から書いてました。",
+    "見えるところに置いていなかった。"
+  ],
+  "sha256": "11a1d3ab440f186006144a23098fa674ba01932144083d8a5d4747168998d8ff"
+}
