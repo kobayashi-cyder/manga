@@ -1,0 +1,36 @@
+{
+  "page": "P035",
+  "version": "v1",
+  "stage": "internal_qa_pass_user_pending",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_page_panels": 3,
+  "checks": {
+    "reading_order_top_to_bottom": true,
+    "panel_count_3": true,
+    "dialogue_exact": true,
+    "heading_transition_exact": true,
+    "two_fields_only": true,
+    "no_extra_ui_or_legal_text": true,
+    "mikage_hand_edits_heading": true,
+    "shirasaki_reads_two_fields": true,
+    "rei_wry_smile": true,
+    "rei_healthy_right_hand_wave_five_fingers": true,
+    "hands_fingers_visual_check": true,
+    "faces_gaze_visual_check": true,
+    "text_readability": true,
+    "p034_p036_connection": true,
+    "before_handdrawn_graytone": true,
+    "no_new_a1_ethics_premise": true,
+    "unapproved_v4_not_applied": true,
+    "user_approved": false,
+    "final_proof": false
+  },
+  "exact_text": [
+    "正常",
+    "形状指標：適合",
+    "本人による申告：篠宮零",
+    "再生の記録に、本人が戻りましたね。",
+    "最初から、ここにいますよ。"
+  ],
+  "sha256": "a71ed3a10d343e403613535f7bdb43794aec4df045a0ce4c9803f2aecfc39299"
+}
