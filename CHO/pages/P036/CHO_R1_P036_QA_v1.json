@@ -1,0 +1,37 @@
+{
+  "page": "P036",
+  "version": "v1",
+  "stage": "internal_qa_pass_user_pending",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_page_panels": 4,
+  "checks": {
+    "reading_order_top_then_middle_rtl_then_bottom": true,
+    "panel_count_4": true,
+    "dialogue_exact": true,
+    "save_label_exact": true,
+    "no_extra_ui_or_legal_text": true,
+    "wide_shot_three_hands_distance": true,
+    "device_display_present": true,
+    "handdrawn_outline_present": true,
+    "rei_right_hand_present": true,
+    "shirasaki_presses_save": true,
+    "mikage_turns_to_rei": true,
+    "rei_returns_right_hand_to_lap": true,
+    "hands_fingers_visual_check": true,
+    "faces_gaze_visual_check": true,
+    "text_readability": true,
+    "p035_p037_connection": true,
+    "before_handdrawn_graytone": true,
+    "no_new_a1_ethics_premise": true,
+    "unapproved_v4_not_applied": true,
+    "user_approved": false,
+    "final_proof": false
+  },
+  "exact_text": [
+    "保存",
+    "注記ごと保存します。",
+    "明日は休んで、それから改めて確かめよう。",
+    "約束、ですよ。"
+  ],
+  "sha256": "17bf33270d40837658fb2f5c6b8fd4c1f96110ba3f92bae5e123c3c226376225"
+}
