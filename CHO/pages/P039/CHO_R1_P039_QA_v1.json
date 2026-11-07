@@ -1,0 +1,37 @@
+{
+  "page": "P039",
+  "version": "v1",
+  "stage": "internal_qa_pass_user_pending",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_page_panels": 3,
+  "checks": {
+    "reading_order_top_then_bottom_right_then_bottom_left": true,
+    "panel_count_3": true,
+    "dialogue_exact": true,
+    "display_exact_shape_metric_fit_and_subject_zero": true,
+    "no_extra_generated_text": true,
+    "morning_research_building_opposes_p037_night": true,
+    "rei_pushes_door_with_own_right_hand": true,
+    "rei_right_hand_healthy_five_fingers": true,
+    "shirasaki_places_exactly_one_summary_sheet": true,
+    "rei_looks_down_from_headline": true,
+    "quiet_exclusion_not_conspiracy": true,
+    "hands_fingers_visual_check": true,
+    "faces_gaze_visual_check": true,
+    "text_readability": true,
+    "p038_p040_connection": true,
+    "before_handdrawn_graytone": true,
+    "no_malice_concealment_or_new_power_hint": true,
+    "no_new_a1_ethics_premise": true,
+    "unapproved_v4_not_applied": true,
+    "user_approved": false,
+    "final_proof": false
+  },
+  "exact_text": [
+    "形状指標：適合",
+    "対象：零号",
+    "昨日の記録を、あなたにも見てほしくて。",
+    "ここには、僕がいない。"
+  ],
+  "sha256": "791d4648368a6b85c9f56ce9c64affecd97334c11cbe05e26a491d9ae999b428"
+}
