@@ -1,0 +1,36 @@
+{
+  "page": "P049",
+  "version": "v1",
+  "stage": "internal_qa_pass_user_pending",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_page_panels": 4,
+  "checks": {
+    "reading_order_top_right_top_left_bottom_right_bottom_left": true,
+    "panel_count_4": true,
+    "dialogue_exact": true,
+    "display_exact_name_sharing_confirmation": true,
+    "no_extra_generated_text": true,
+    "shirasaki_shows_choice_without_coercion": true,
+    "rei_asks_reader_scope_before_deciding": true,
+    "mikage_shows_bounded_scope_first": true,
+    "rei_does_not_sign_or_select_yet": true,
+    "hands_fingers_visual_check": true,
+    "faces_gaze_visual_check": true,
+    "props_and_space_continuity": true,
+    "text_readability": true,
+    "p048_p050_connection": true,
+    "before_handdrawn_graytone": true,
+    "no_new_a1_ethics_premise": true,
+    "unapproved_v4_not_applied": true,
+    "user_approved": false,
+    "final_proof": false
+  },
+  "exact_text": [
+    "氏名を共有資料に含めるか：本人確認",
+    "名前は、あなたに選んでもらいます。",
+    "名前を入れたら、何人が読むんですか。",
+    "送る範囲を先に示す。勝手には広げない。",
+    "その説明を聞いてから決めます。"
+  ],
+  "sha256": "3b721e014c1da760fff622a1a12fed7fc4a01547f19c53b6e7cbebbe226a3110"
+}
