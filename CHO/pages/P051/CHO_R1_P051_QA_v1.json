@@ -1,0 +1,37 @@
+{
+  "page": "P051",
+  "version": "v1",
+  "stage": "internal_qa_pass_user_pending",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_page_panels": 4,
+  "checks": {
+    "reading_order_top_right_top_left_bottom_right_bottom_left": true,
+    "panel_count_4": true,
+    "dialogue_exact": true,
+    "output_field_exact": true,
+    "no_extra_generated_text": true,
+    "identifier_and_original_statement_both_preserved": true,
+    "attachment_access_scope_limited": true,
+    "rei_handdrawn_outline_visible": true,
+    "rei_healthy_right_hand_visible": true,
+    "shirasaki_faces_rei_in_final_panel": true,
+    "hands_fingers_visual_check": true,
+    "faces_gaze_visual_check": true,
+    "props_and_space_continuity": true,
+    "text_readability": true,
+    "p050_p052_connection": true,
+    "before_handdrawn_graytone": true,
+    "no_new_a1_ethics_premise": true,
+    "unapproved_v4_not_applied": true,
+    "user_approved": false,
+    "final_proof": false
+  },
+  "exact_text": [
+    "本人申告：原本添付（識別番号で照合）",
+    "外へ出す紙は番号で照合。名前と元の発言は研究室で守る。",
+    "添付の閲覧範囲も制限しよう。",
+    "それなら、僕が話したことは消えませんか。",
+    "消さない形を作れます。"
+  ],
+  "sha256": "4616ff8d4975fa982a2d22e8455ac40d3df7e1b2f4756074bca538b4b0e960a8"
+}
