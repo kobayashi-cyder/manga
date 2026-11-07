@@ -1,0 +1,37 @@
+{
+  "page": "P052",
+  "version": "v1",
+  "stage": "internal_qa_pass_user_pending",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_page_panels": 4,
+  "checks": {
+    "reading_order_top_right_top_left_bottom_right_bottom_left": true,
+    "panel_count_4": true,
+    "panel1_silent": true,
+    "dialogue_exact": true,
+    "quoted_record_exact": true,
+    "no_extra_generated_text": true,
+    "unfinished_attachment_printed": true,
+    "rei_reads_before_deciding": true,
+    "mikage_invites_correction": true,
+    "rei_points_to_single_word_area": true,
+    "present_to_past_tense_correction_clear": true,
+    "hands_fingers_visual_check": true,
+    "faces_gaze_visual_check": true,
+    "props_and_space_continuity": true,
+    "text_readability": true,
+    "p051_p053_connection": true,
+    "before_handdrawn_graytone": true,
+    "no_new_a1_ethics_premise": true,
+    "unapproved_v4_not_applied": true,
+    "user_approved": false,
+    "final_proof": false
+  },
+  "exact_text": [
+    "右手の存在感はある／距離感に違和感",
+    "この言い方、僕の言ったことに近いです。",
+    "直したいところはあるか。",
+    "『違和感がある』じゃなく、『あった』です。今は少し違う。"
+  ],
+  "sha256": "7f156aa8f989ca6140a9443c8e9c4f28265b7c6a42398863d117394022a7c747"
+}
