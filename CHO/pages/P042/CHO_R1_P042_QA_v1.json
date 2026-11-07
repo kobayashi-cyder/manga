@@ -1,0 +1,38 @@
+{
+  "page": "P042",
+  "version": "v1",
+  "stage": "internal_qa_pass_user_pending",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_page_panels": 4,
+  "checks": {
+    "reading_order_top_right_to_top_left_then_bottom_right_to_bottom_left": true,
+    "panel_count_4": true,
+    "dialogue_exact": true,
+    "display_exact_zero_subject_label": true,
+    "no_extra_generated_text": true,
+    "shelf_profile_and_thin_files_present": true,
+    "no_other_subject_information_revealed": true,
+    "mikage_points_to_management_number": true,
+    "mikage_explanation_practical_not_defensive": true,
+    "rei_nods_without_releasing_paper": true,
+    "rei_visible_hand_healthy_natural": true,
+    "rei_eye_closeup_distinguishes_two_issues": true,
+    "hands_fingers_visual_check": true,
+    "faces_gaze_visual_check": true,
+    "text_readability": true,
+    "p041_p043_connection": true,
+    "before_handdrawn_graytone": true,
+    "no_malice_concealment_or_new_power_hint": true,
+    "no_new_a1_ethics_premise": true,
+    "unapproved_v4_not_applied": true,
+    "user_approved": false,
+    "final_proof": false
+  },
+  "exact_text": [
+    "零号",
+    "番号なら検索しやすい。取り違えも防げる。",
+    "必要なのは分かります。",
+    "でも、誰が話したか消えるのは、別の話です。"
+  ],
+  "sha256": "2ae965d8af90ca03e15da0e29aabd6abf84678e307ed420785a8ea8385a66731"
+}
