@@ -1,0 +1,37 @@
+{
+  "page": "P050",
+  "version": "v1",
+  "stage": "internal_qa_pass_user_pending",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_page_panels": 4,
+  "checks": {
+    "reading_order_top_right_top_left_bottom_right_bottom_left": true,
+    "panel_count_4": true,
+    "panel1_silent": true,
+    "dialogue_exact": true,
+    "no_specific_organization_names": true,
+    "no_extra_generated_text": true,
+    "scope_diagram_bounded": true,
+    "signature_and_anonymous_number_both_visible": true,
+    "rei_expresses_both_worries": true,
+    "mikage_validates_both_worries": true,
+    "rei_does_not_choose_either_option": true,
+    "hands_fingers_visual_check": true,
+    "faces_gaze_visual_check": true,
+    "props_and_space_continuity": true,
+    "text_readability": true,
+    "p049_p051_connection": true,
+    "before_handdrawn_graytone": true,
+    "no_new_a1_ethics_premise": true,
+    "unapproved_v4_not_applied": true,
+    "user_approved": false,
+    "final_proof": false
+  },
+  "exact_text": [
+    "零号",
+    "名前がないのも困る。名前を出すのも、怖い。",
+    "両方、正しい心配だ。",
+    "じゃあ、どっちかを選ばなくてもいいようにしたい。"
+  ],
+  "sha256": "7386e30f33ce3303681209e05c04e5f40452f07aa29d518e64066a9f93e4715b"
+}
