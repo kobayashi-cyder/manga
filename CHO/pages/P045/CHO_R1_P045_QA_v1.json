@@ -1,0 +1,35 @@
+{
+  "page": "P045",
+  "version": "v1",
+  "stage": "internal_qa_pass_user_pending",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_page_panels": 4,
+  "checks": {
+    "reading_order_top_right_to_top_left_then_bottom_right_to_bottom_left": true,
+    "panel_count_4": true,
+    "dialogue_exact": true,
+    "panel3_no_dialogue": true,
+    "no_extra_generated_text": true,
+    "mikage_initial_answer_concise": true,
+    "rei_looks_at_summary_title": true,
+    "shirasaki_profile_between_them": true,
+    "shirasaki_closes_materials_slowly": true,
+    "mikage_raises_eyes_beneath_glasses": true,
+    "hands_fingers_visual_check": true,
+    "faces_gaze_visual_check": true,
+    "props_and_space_continuity": true,
+    "text_readability": true,
+    "p044_p046_connection": true,
+    "before_handdrawn_graytone": true,
+    "no_new_a1_ethics_premise": true,
+    "unapproved_v4_not_applied": true,
+    "user_approved": false,
+    "final_proof": false
+  },
+  "exact_text": [
+    "研究の予定がずれる。",
+    "僕の感覚がなくなると、僕は困ります。",
+    "比べるべきものじゃないな。"
+  ],
+  "sha256": "4dfa1108042d732c030adf9ea49fd457b5a19c0b7cea74c971dddf0ce4402ad5"
+}
