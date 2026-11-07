@@ -1,0 +1,38 @@
+{
+  "page": "P043",
+  "version": "v1",
+  "stage": "internal_qa_pass_user_pending",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_page_panels": 4,
+  "checks": {
+    "reading_order_top_right_to_top_left_then_bottom_right_to_bottom_left": true,
+    "panel_count_4": true,
+    "dialogue_exact": true,
+    "display_exact_shinomiya_rei_sticky": true,
+    "no_extra_generated_text": true,
+    "shirasaki_places_note_on_short_summary": true,
+    "rei_points_below_note": true,
+    "rei_visible_hand_healthy_natural": true,
+    "mikage_does_not_remove_note": true,
+    "mikage_turns_to_shirasaki": true,
+    "three_people_share_same_page_in_silent_panel": true,
+    "unresolved_pause_preserved": true,
+    "hands_fingers_visual_check": true,
+    "faces_gaze_visual_check": true,
+    "text_readability": true,
+    "p042_p044_connection": true,
+    "before_handdrawn_graytone": true,
+    "no_malice_concealment_or_new_power_hint": true,
+    "no_new_a1_ethics_premise": true,
+    "unapproved_v4_not_applied": true,
+    "user_approved": false,
+    "final_proof": false
+  },
+  "exact_text": [
+    "篠宮零",
+    "名前を付ければ……。",
+    "名前だけ増えて、言ったことは戻りません。",
+    "その通りだ。"
+  ],
+  "sha256": "82d17e31cb2320ebf74dabdfbb684808dbe9c14bd36c3771c849c9643b4c0229"
+}
