@@ -1,0 +1,37 @@
+{
+  "page": "P053",
+  "version": "v1",
+  "stage": "internal_qa_pass_user_pending",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_page_panels": 4,
+  "checks": {
+    "reading_order_top_right_top_left_bottom_right_bottom_left": true,
+    "panel_count_4": true,
+    "dialogue_exact": true,
+    "labels_exact": true,
+    "panel4_silent_except_field_labels": true,
+    "no_extra_generated_text": true,
+    "shirasaki_stops_before_deleting": true,
+    "rei_preserves_prior_statement": true,
+    "mikage_adds_separate_observation_time": true,
+    "two_observation_fields_clear": true,
+    "hands_fingers_visual_check": true,
+    "faces_gaze_visual_check": true,
+    "props_and_space_continuity": true,
+    "text_readability": true,
+    "p052_p054_connection": true,
+    "before_handdrawn_graytone": true,
+    "no_new_a1_ethics_premise": true,
+    "unapproved_v4_not_applied": true,
+    "user_approved": false,
+    "final_proof": false
+  },
+  "exact_text": [
+    "前の言葉を直しますか。",
+    "そのときは、本当にそう思ったんです。",
+    "なら、別の時点の申告として足そう。",
+    "実験直後",
+    "翌日"
+  ],
+  "sha256": "46e3a5dace7ec27cf25bf2d7d7ae7c8f69b7eef4ad910b7c570c45d4a1a71996"
+}
