@@ -1,0 +1,38 @@
+{
+  "page": "P047",
+  "version": "v1",
+  "stage": "internal_qa_pass_user_pending",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_page_panels": 4,
+  "checks": {
+    "reading_order_top_right_top_left_bottom_right_bottom_left": true,
+    "panel_count_4": true,
+    "dialogue_exact": true,
+    "display_exact_three_process_labels": true,
+    "no_extra_generated_text": true,
+    "mikage_folds_one_sheet_at_center": true,
+    "left_side_has_shape_stop_and_self_report": true,
+    "right_side_shared_material_body_is_blank": true,
+    "rei_healthy_right_index_points_to_blank": true,
+    "hands_fingers_visual_check": true,
+    "faces_gaze_visual_check": true,
+    "paper_fold_and_space_continuity": true,
+    "text_readability": true,
+    "p046_p048_connection": true,
+    "before_handdrawn_graytone": true,
+    "no_new_a1_ethics_premise": true,
+    "unapproved_v4_not_applied": true,
+    "user_approved": false,
+    "final_proof": false
+  },
+  "exact_text": [
+    "実験で起きたこと。",
+    "形状指標の停止",
+    "本人の申告",
+    "それを記録したこと。",
+    "共有資料に載せたこと",
+    "誰かへ伝えたこと。",
+    "最後で、一つ落ちた。"
+  ],
+  "sha256": "5f1330b9d4993b9fa57c6be0cc71b6e1526701901fa8f39577f516cfeb2741bc"
+}
