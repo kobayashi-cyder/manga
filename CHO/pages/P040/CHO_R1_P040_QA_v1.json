@@ -1,0 +1,39 @@
+{
+  "page": "P040",
+  "version": "v1",
+  "stage": "internal_qa_pass_user_pending",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_page_panels": 4,
+  "checks": {
+    "reading_order_top_right_to_top_left_then_bottom_right_to_bottom_left": true,
+    "panel_count_4": true,
+    "dialogue_exact": true,
+    "display_exact_personal_sensation_followup": true,
+    "no_extra_generated_text": true,
+    "same_summary_sheet_as_p039": true,
+    "rei_right_fingertip_searches_lower_sheet": true,
+    "rei_right_hand_healthy_natural": true,
+    "shirasaki_opens_original_terminal": true,
+    "original_record_contains_field": true,
+    "summary_lacks_corresponding_field": true,
+    "two_item_comparison_clear": true,
+    "rei_questioning_not_accusatory": true,
+    "hands_fingers_visual_check": true,
+    "faces_gaze_visual_check": true,
+    "text_readability": true,
+    "p039_p041_connection": true,
+    "before_handdrawn_graytone": true,
+    "no_malice_concealment_or_new_power_hint": true,
+    "no_new_a1_ethics_premise": true,
+    "unapproved_v4_not_applied": true,
+    "user_approved": false,
+    "final_proof": false
+  },
+  "exact_text": [
+    "僕の話した、距離の感じは？",
+    "原本にはあります。",
+    "本人の感覚：経過確認",
+    "写したら、消えたんですか。"
+  ],
+  "sha256": "75ab934c6a5d6d202a395ecaae721224286281f53d710aa822687ec64b06e9d1"
+}
