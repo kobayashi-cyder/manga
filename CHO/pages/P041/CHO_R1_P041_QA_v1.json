@@ -1,0 +1,38 @@
+{
+  "page": "P041",
+  "version": "v1",
+  "stage": "internal_qa_pass_user_pending",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_page_panels": 4,
+  "checks": {
+    "reading_order_top_right_to_top_left_then_bottom_right_to_bottom_left": true,
+    "panel_count_4": true,
+    "dialogue_exact": true,
+    "display_exact_fixed_items_only": true,
+    "no_extra_generated_text": true,
+    "mikage_compares_summary_and_terminal": true,
+    "shirasaki_hand_points_to_output_setting": true,
+    "rei_places_own_handdrawn_outline": true,
+    "rei_visible_hand_healthy_natural": true,
+    "mikage_gaze_lands_on_blank_field": true,
+    "process_cause_not_culprit_search": true,
+    "hands_fingers_visual_check": true,
+    "faces_gaze_visual_check": true,
+    "text_readability": true,
+    "p040_p042_connection": true,
+    "before_handdrawn_graytone": true,
+    "no_malice_concealment_or_new_power_hint": true,
+    "no_new_a1_ethics_premise": true,
+    "unapproved_v4_not_applied": true,
+    "user_approved": false,
+    "final_proof": false
+  },
+  "exact_text": [
+    "記録そのものは残っている。",
+    "定型項目のみ",
+    "共有用の短い形式です。",
+    "こっちも、ない。",
+    "抜けたのは数字じゃなく、君の説明だ。"
+  ],
+  "sha256": "eaa961790f52a95c607483833e2d507a47b8c689382b885a281b470bbebab8a8"
+}
