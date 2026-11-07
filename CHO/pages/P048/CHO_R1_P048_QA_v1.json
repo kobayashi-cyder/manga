@@ -1,0 +1,37 @@
+{
+  "page": "P048",
+  "version": "v1",
+  "stage": "internal_qa_pass_user_pending",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_page_panels": 4,
+  "checks": {
+    "reading_order_top_right_top_left_bottom_right_bottom_left": true,
+    "panel_count_4": true,
+    "dialogue_exact": true,
+    "display_self_report_exact": true,
+    "no_extra_generated_text": true,
+    "shirasaki_cursor_on_original_self_report": true,
+    "summary_does_not_contain_complete_recovery_wording": true,
+    "mikage_keeps_shape_index_and_subjective_feeling_separate": true,
+    "rei_holds_original_hand_drawing": true,
+    "shirasaki_attaches_original_without_redrawing": true,
+    "hands_fingers_visual_check": true,
+    "faces_gaze_visual_check": true,
+    "props_and_space_continuity": true,
+    "text_readability": true,
+    "p047_p049_connection": true,
+    "before_handdrawn_graytone": true,
+    "no_new_a1_ethics_premise": true,
+    "unapproved_v4_not_applied": true,
+    "user_approved": false,
+    "final_proof": false
+  },
+  "exact_text": [
+    "本人の申告",
+    "付属資料にすれば、全部送れます。",
+    "形状指標と本人の体感を混ぜないこと。",
+    "僕の絵も、あの紙のままで。",
+    "描き直さず、原本として付けます。"
+  ],
+  "sha256": "1877f56d5fc1739a1556f3a9e36a7ca1f691d168c485e8bfdb6c19f102f5a09b"
+}
