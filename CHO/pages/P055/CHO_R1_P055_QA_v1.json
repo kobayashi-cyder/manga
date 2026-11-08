@@ -1,0 +1,37 @@
+{
+  "page": "P055",
+  "version": "v1",
+  "stage": "internal_qa_pass_user_pending",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_page_panels": 4,
+  "checks": {
+    "reading_order_top_right_top_left_bottom_right_bottom_left": true,
+    "panel_count_4": true,
+    "panel2_silent": true,
+    "panel3_silent_except_display_label": true,
+    "dialogue_exact": true,
+    "consent_label_clear": true,
+    "no_extra_generated_text": true,
+    "shirasaki_turns_confirmation_screen_to_rei": true,
+    "rei_reads_complete_document": true,
+    "healthy_right_hand_pauses_beside_consent": true,
+    "consent_not_pressed_in_panel3": true,
+    "rei_owns_decision_in_panel4": true,
+    "hands_fingers_visual_check": true,
+    "faces_gaze_visual_check": true,
+    "props_and_space_continuity": true,
+    "text_readability": true,
+    "p054_p056_connection": true,
+    "before_handdrawn_graytone": true,
+    "no_new_a1_ethics_premise": true,
+    "unapproved_v4_not_applied": true,
+    "user_approved": false,
+    "final_proof": false
+  },
+  "exact_text": [
+    "この内容と範囲でよければ、提出します。",
+    "同意",
+    "はい。僕が選びました。"
+  ],
+  "sha256": "25d34f2607370dd149059d2a6a17fc865a597c22856789f55bce305f317da22d"
+}
