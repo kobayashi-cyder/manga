@@ -1,0 +1,37 @@
+{
+  "page": "P062",
+  "version": "v1",
+  "stage": "internal_qa_pass_user_pending",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_page_panels": 4,
+  "checks": {
+    "reading_order_right_to_left": true,
+    "panel_count_4": true,
+    "dialogue_exact": true,
+    "display_terms_exact": true,
+    "no_extra_generated_text": true,
+    "rei_notices_inquiry": true,
+    "mikage_does_not_hide_material": true,
+    "inquiry_contains_terms_without_guarantee": true,
+    "shirasaki_presents_verified_original": true,
+    "hands_fingers_visual_check": true,
+    "faces_gaze_and_posture_visual_check": true,
+    "desk_papers_room_continuity": true,
+    "text_readability": true,
+    "p061_p063_connection": true,
+    "before_handdrawn_graytone": true,
+    "no_new_a1_ethics_premise": true,
+    "unapproved_v4_not_applied": true,
+    "user_approved": false,
+    "final_proof": false
+  },
+  "exact_text": [
+    "外から、何を聞かれたんですか。",
+    "『全部戻るのか』だ。",
+    "全て",
+    "永久",
+    "僕の手一つで、そこまで？",
+    "だから、書いてある範囲だけ答えます。"
+  ],
+  "sha256": "dc908249c25e9e0405cc5e167b6c1b414538c098a91d0e7733c5051d4a1c652d"
+}
