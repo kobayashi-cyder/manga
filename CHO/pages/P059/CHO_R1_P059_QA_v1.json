@@ -1,0 +1,39 @@
+{
+  "page": "P059",
+  "version": "v1",
+  "stage": "internal_qa_pass_user_pending",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_page_panels": 4,
+  "checks": {
+    "reading_order_top_right_top_left_bottom_right_bottom_left": true,
+    "panel_count_4": true,
+    "panel1_silent": true,
+    "panel3_silent": true,
+    "dialogue_exact": true,
+    "display_text_exact": true,
+    "no_extra_generated_text": true,
+    "morning_archive_room_established": true,
+    "received_notice_and_submission_copy_side_by_side": true,
+    "shirasaki_reads_notification": true,
+    "mikage_adjusts_glasses_and_reads": true,
+    "inquiry_is_question_not_technical_fact": true,
+    "requester_identity_unset": true,
+    "hands_fingers_visual_check": true,
+    "faces_gaze_visual_check": true,
+    "props_window_and_space_continuity": true,
+    "text_readability": true,
+    "p058_p060_connection": true,
+    "before_handdrawn_graytone": true,
+    "no_new_a1_ethics_premise": true,
+    "unapproved_v4_not_applied": true,
+    "user_approved": false,
+    "final_proof": false
+  },
+  "exact_text": [
+    "照会内容を確認してください",
+    "来ました。",
+    "元通りになる技術でしょうか",
+    "最初から、少し違うな。"
+  ],
+  "sha256": "36b4b83f736c8b53e4ecd7c46d6a3e1e4c7c93a0f976c29305ead20b002858a3"
+}
