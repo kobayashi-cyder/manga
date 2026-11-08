@@ -1,0 +1,35 @@
+{
+  "page": "P056",
+  "version": "v1",
+  "stage": "internal_qa_pass_user_pending",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_page_panels": 3,
+  "checks": {
+    "reading_order_right_center_left": true,
+    "panel_count_3": true,
+    "dialogue_exact": true,
+    "no_extra_generated_text": true,
+    "mikage_and_shirasaki_verify_final_list": true,
+    "original_attachment_scope_rows_distinct_and_blank": true,
+    "mikage_calls_rei_by_name": true,
+    "rei_looks_up_and_answers": true,
+    "mikage_faces_rei_directly": true,
+    "gratitude_for_record_clear": true,
+    "hands_fingers_visual_check": true,
+    "faces_gaze_visual_check": true,
+    "props_and_space_continuity": true,
+    "text_readability": true,
+    "p055_p057_connection": true,
+    "before_handdrawn_graytone": true,
+    "no_new_a1_ethics_premise": true,
+    "unapproved_v4_not_applied": true,
+    "user_approved": false,
+    "final_proof": false
+  },
+  "exact_text": [
+    "篠宮零。",
+    "はい。",
+    "記録を残してくれて、ありがとう。"
+  ],
+  "sha256": "7b1d924b165aac864ecdfd5817fce734b1ba99b5b501b76053e5ada98e28f9a9"
+}
