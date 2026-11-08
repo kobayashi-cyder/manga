@@ -1,0 +1,36 @@
+{
+  "page": "P063",
+  "version": "v1",
+  "stage": "internal_qa_pass_user_pending",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_page_panels": 4,
+  "checks": {
+    "reading_order_right_to_left": true,
+    "panel_count_4": true,
+    "dialogue_exact": true,
+    "display_text_exact": true,
+    "no_extra_generated_text": true,
+    "original_update_timepoint_visible": true,
+    "inquiry_complete_phrase_separate": true,
+    "mikage_denies_source_claim": true,
+    "rei_places_notebook": true,
+    "hands_fingers_visual_check": true,
+    "faces_gaze_and_posture_visual_check": true,
+    "original_inquiry_notebook_distinct": true,
+    "text_readability": true,
+    "p062_p064_connection": true,
+    "before_handdrawn_graytone": true,
+    "no_new_a1_ethics_premise": true,
+    "unapproved_v4_not_applied": true,
+    "user_approved": false,
+    "final_proof": false
+  },
+  "exact_text": [
+    "翌日：距離感が前日と異なる",
+    "元通り＝完全",
+    "この『完全』、どこから来たんだろう。",
+    "私たちは、そうは書いていない。",
+    "書いてなくても、読まれることがあるんですね。"
+  ],
+  "sha256": "d40b0588a1a5d9acb87595e2026a51a42dddc4a9d291d6726ec7c182039b18db"
+}
