@@ -1,0 +1,36 @@
+{
+  "page": "P054",
+  "version": "v1",
+  "stage": "internal_qa_pass_user_pending",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_page_panels": 3,
+  "checks": {
+    "reading_order_top_then_bottom_right_then_bottom_left": true,
+    "panel_count_3": true,
+    "panel1_silent": true,
+    "dialogue_exact": true,
+    "submit_label_clear": true,
+    "no_extra_generated_text": true,
+    "clock_shows_time_pressure": true,
+    "mikage_hand_leaves_submit_control": true,
+    "shirasaki_additional_record_in_progress": true,
+    "decision_to_wait_for_complete_record_clear": true,
+    "rei_small_relief_exhale_clear": true,
+    "hands_fingers_visual_check": true,
+    "faces_gaze_visual_check": true,
+    "props_and_space_continuity": true,
+    "text_readability": true,
+    "p053_p055_connection": true,
+    "before_handdrawn_graytone": true,
+    "no_new_a1_ethics_premise": true,
+    "unapproved_v4_not_applied": true,
+    "user_approved": false,
+    "final_proof": false
+  },
+  "exact_text": [
+    "提出",
+    "出すのは、揃ってからにする。",
+    "僕の話、邪魔じゃなかった。"
+  ],
+  "sha256": "8f30200ec68ebc07ed080fe3f28bd3db9ff89e5d48d3bba409b5125420b287bb"
+}
