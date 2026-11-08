@@ -1,0 +1,40 @@
+{
+  "page": "P057",
+  "version": "v1",
+  "stage": "internal_qa_pass_user_pending",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_page_panels": 4,
+  "checks": {
+    "reading_order_top_right_top_left_bottom_right_bottom_left": true,
+    "panel_count_4": true,
+    "panel2_silent_except_status_labels": true,
+    "panel3_silent": true,
+    "dialogue_exact": true,
+    "display_text_exact": true,
+    "no_extra_generated_text": true,
+    "shirasaki_submission_action_clear": true,
+    "recipient_identity_hidden": true,
+    "attachment_present_and_viewing_restricted": true,
+    "rei_exits_using_healthy_right_hand": true,
+    "mikage_and_shirasaki_review_submission_copy": true,
+    "future_reader_question_clear": true,
+    "hands_fingers_visual_check": true,
+    "faces_gaze_visual_check": true,
+    "props_door_and_space_continuity": true,
+    "text_readability": true,
+    "p056_p058_connection": true,
+    "before_handdrawn_graytone": true,
+    "no_new_a1_ethics_premise": true,
+    "unapproved_v4_not_applied": true,
+    "user_approved": false,
+    "final_proof": false
+  },
+  "exact_text": [
+    "資料提出",
+    "送りました。",
+    "添付資料：あり",
+    "閲覧範囲：限定",
+    "この先、読む人は数字ばかり見ませんか。"
+  ],
+  "sha256": "368908bdc7b107ea2938f59e6abe2f5c58c52c04ab7ee7790da6e759d1d66849"
+}
