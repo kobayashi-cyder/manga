@@ -1,0 +1,33 @@
+{
+  "page": "P061",
+  "version": "v1",
+  "stage": "internal_qa_pass_user_pending",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_page_panels": 4,
+  "checks": {
+    "reading_order_right_to_left": true,
+    "panel_count_4": true,
+    "dialogue_exact": true,
+    "no_extra_generated_text": true,
+    "right_hand_adjusts_shoulder_strap": true,
+    "distant_speakers_faces_hidden": true,
+    "hesitant_step_visible": true,
+    "rei_does_not_turn_or_argue": true,
+    "hands_fingers_visual_check": true,
+    "face_profile_visual_check": true,
+    "corridor_door_bag_continuity": true,
+    "text_readability": true,
+    "p060_p062_connection": true,
+    "before_handdrawn_graytone": true,
+    "no_new_a1_ethics_premise": true,
+    "unapproved_v4_not_applied": true,
+    "user_approved": false,
+    "final_proof": false
+  },
+  "exact_text": [
+    "再生した人……？",
+    "あの人？",
+    "名前じゃ、ないんだ。"
+  ],
+  "sha256": "c5ed6bc2f5ec701e37782ede8b9b66f3dd0cc798c6f38a38024401d0fdbf9959"
+}
