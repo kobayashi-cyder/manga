@@ -1,0 +1,37 @@
+{
+  "page": "P060",
+  "version": "v1",
+  "stage": "internal_qa_pass_user_pending",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_page_panels": 3,
+  "checks": {
+    "reading_order_right_center_left": true,
+    "panel_count_3": true,
+    "dialogue_exact": true,
+    "display_text_exact": true,
+    "inquiry_body_unreadable": true,
+    "no_extra_generated_text": true,
+    "confirmed_scope_limited_to_shape_metric_stop": true,
+    "subjective_sensation_marked_ongoing_observation": true,
+    "future_not_promised": true,
+    "no_medical_or_technical_outcome_asserted": true,
+    "hands_fingers_visual_check": true,
+    "faces_gaze_and_posture_visual_check": true,
+    "papers_terminal_and_space_continuity": true,
+    "text_readability": true,
+    "p059_p061_connection": true,
+    "before_handdrawn_graytone": true,
+    "no_new_a1_ethics_premise": true,
+    "unapproved_v4_not_applied": true,
+    "user_approved": false,
+    "final_proof": false
+  },
+  "exact_text": [
+    "確認した＝形状指標の停止",
+    "確かめたのは、ここだ。",
+    "本人の感覚：経過観察",
+    "こちらは、継続して聞いています。",
+    "この先までは、約束できない。"
+  ],
+  "sha256": "b9bc1ec1f24e2345d63c186989d615ff8fb259411b422ef144427459d96f7178"
+}
