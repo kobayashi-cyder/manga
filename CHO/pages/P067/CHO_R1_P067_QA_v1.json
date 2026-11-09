@@ -1,0 +1,36 @@
+{
+  "page": "P067",
+  "version": "v1",
+  "stage": "internal_qa_pass_user_pending",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_page_panels": 4,
+  "checks": {
+    "reading_order_right_to_left": true,
+    "panel_count_4": true,
+    "dialogue_exact": true,
+    "question_display_exact": true,
+    "no_extra_generated_text": true,
+    "additional_question_sheet_distinct": true,
+    "mikage_reaches_and_stops": true,
+    "mikage_admits_no_answer": true,
+    "rei_understands_uncertainty": true,
+    "rei_healthy_right_hand_five_fingers": true,
+    "mikage_research_principle_exact": true,
+    "hands_fingers_visual_check": true,
+    "faces_gaze_and_posture_visual_check": true,
+    "text_readability": true,
+    "p066_p068_connection": true,
+    "before_handdrawn_graytone": true,
+    "no_new_a1_ethics_premise": true,
+    "unapproved_v4_not_applied": true,
+    "user_approved": false,
+    "final_proof": false
+  },
+  "exact_text": [
+    "失われた機能すべてに応用できますか",
+    "そこは、答えがない。",
+    "分からないなら、そう書くんですね。",
+    "研究は、分からないことを隠すためにあるんじゃない。"
+  ],
+  "sha256": "1c753380314c96b98db9b984f04aeb0c78aca7be168225c7cb688470f9034ab3"
+}
