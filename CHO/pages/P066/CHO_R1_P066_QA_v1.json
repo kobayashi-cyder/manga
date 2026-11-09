@@ -1,0 +1,35 @@
+{
+  "page": "P066",
+  "version": "v1",
+  "stage": "internal_qa_pass_user_pending",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_page_panels": 3,
+  "checks": {
+    "reading_order_top_then_lower_right_to_left": true,
+    "panel_count_3": true,
+    "dialogue_exact": true,
+    "field_label_exact": true,
+    "no_extra_generated_text": true,
+    "mikage_rereads_two_layered_documents": true,
+    "rei_wry_smile_and_exact_reply": true,
+    "rei_healthy_right_hand_five_fingers": true,
+    "shirasaki_prepares_final_response_field": true,
+    "panel_3_silent": true,
+    "hands_fingers_visual_check": true,
+    "faces_gaze_and_posture_visual_check": true,
+    "documents_remain_distinct": true,
+    "text_readability": true,
+    "p065_p067_connection": true,
+    "before_handdrawn_graytone": true,
+    "no_new_a1_ethics_premise": true,
+    "unapproved_v4_not_applied": true,
+    "user_approved": false,
+    "final_proof": false
+  },
+  "exact_text": [
+    "私が書いた文章より、明確だ。",
+    "困ってるのは、僕だから。",
+    "本人の発言（共有について確認済み）"
+  ],
+  "sha256": "91fbfd671d6222d515b11b9f1b5192655527ab55eecd1c46b997575f85bc6966"
+}
