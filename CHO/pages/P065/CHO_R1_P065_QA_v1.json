@@ -1,0 +1,35 @@
+{
+  "page": "P065",
+  "version": "v1",
+  "stage": "internal_qa_pass_user_pending",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_page_panels": 4,
+  "checks": {
+    "reading_order_right_to_left": true,
+    "panel_count_4": true,
+    "dialogue_exact": true,
+    "written_statement_exact": true,
+    "no_extra_generated_text": true,
+    "rei_takes_pen_himself": true,
+    "healthy_right_hand_five_fingers": true,
+    "shirasaki_quote_permission": true,
+    "single_personal_statement_visible": true,
+    "mikage_waits_silently": true,
+    "hands_fingers_visual_check": true,
+    "faces_gaze_and_posture_visual_check": true,
+    "two_prior_category_sheets_remain_distinct": true,
+    "text_readability": true,
+    "p064_p066_connection": true,
+    "before_handdrawn_graytone": true,
+    "no_new_a1_ethics_premise": true,
+    "unapproved_v4_not_applied": true,
+    "user_approved": false,
+    "final_proof": false
+  },
+  "exact_text": [
+    "僕も、書いていいですか。",
+    "もちろん。必要ならそのまま引用します。",
+    "右手はここにある。ただし全てを保証するものではない"
+  ],
+  "sha256": "93ac66e62ec37af91f3eee3ced83ff4cc319464583c65f97a66c7362f0d3feb4"
+}
