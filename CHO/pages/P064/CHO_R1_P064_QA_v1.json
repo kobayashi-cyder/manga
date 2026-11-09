@@ -1,0 +1,36 @@
+{
+  "page": "P064",
+  "version": "v1",
+  "stage": "internal_qa_pass_user_pending",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_page_panels": 4,
+  "checks": {
+    "reading_order_right_to_left": true,
+    "panel_count_4": true,
+    "dialogue_exact": true,
+    "display_text_exact": true,
+    "no_extra_generated_text": true,
+    "mikage_copies_two_fields": true,
+    "shirasaki_places_unverified_label": true,
+    "rei_compares_both_sheets": true,
+    "categories_together_but_not_mixed": true,
+    "hands_fingers_visual_check": true,
+    "faces_gaze_and_posture_visual_check": true,
+    "original_second_sheet_label_distinct": true,
+    "text_readability": true,
+    "p063_p065_connection": true,
+    "before_handdrawn_graytone": true,
+    "no_new_a1_ethics_premise": true,
+    "unapproved_v4_not_applied": true,
+    "user_approved": false,
+    "final_proof": false
+  },
+  "exact_text": [
+    "確かめたこと。",
+    "未検証",
+    "まだ、確かめていないこと。",
+    "同じ紙に、載せますか。",
+    "一緒に載せる。ただし混ぜない。"
+  ],
+  "sha256": "ee33c38b8cb49f00eec709b5265148e4177776ef693c871d7e288b2be16c1679"
+}
