@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1672" height="941" viewBox="0 0 1672 941">
+  <image id="background" x="0" y="0" width="1672" height="941" xlink:href="CHO_R1_P076_background_v1.png"/>
+  <g id="bubbles" fill="#fff" fill-opacity="0.97" stroke="#111" stroke-width="4" stroke-linejoin="round">
+    <path d="M878 34 H1198 Q1222 34 1222 58 V164 Q1222 188 1198 188 H1150 L1328 260 L1170 188 H902 Q878 188 878 164 Z"/>
+    <path d="M42 34 H408 Q432 34 432 58 V164 Q432 188 408 188 H370 L470 256 L342 188 H66 Q42 188 42 164 Z"/>
+    <path d="M886 514 H1218 Q1242 514 1242 538 V658 Q1242 682 1218 682 H1174 L1360 748 L1194 682 H910 Q886 682 886 658 Z"/>
+  </g>
+  <g id="utf8-japanese-text" fill="#111" font-family="Noto Sans CJK JP" font-size="30" font-weight="500" text-anchor="middle">
+    <text x="1050" y="96">答えられないことを、</text><text x="1050" y="139">残せましたね。</text>
+    <text x="237" y="96">残すことにも、</text><text x="237" y="139">責任がある。</text>
+    <text x="1064" y="580">何を送ったかも、</text><text x="1064" y="623">残しました。</text>
+  </g>
+</svg>

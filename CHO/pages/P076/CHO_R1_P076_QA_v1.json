@@ -1,0 +1,36 @@
+{
+  "project": "CHO Rebuild v1",
+  "volume": 1,
+  "page": "P076",
+  "title": "失わなかったもの",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_status": "v2 canonical; v4 not applied",
+  "a1_status": "original-reference pending; no new ethical premise added",
+  "canvas": {"width": 1672, "height": 941, "ratio": "16:9 landscape"},
+  "panels": 4,
+  "reading_order": ["top-right", "top-left", "bottom-right", "bottom-left"],
+  "utf8_typesetting": {
+    "font": "Noto Sans CJK JP",
+    "dialogue": [
+      "答えられないことを、残せましたね。",
+      "残すことにも、責任がある。",
+      "何を送ったかも、残しました。"
+    ],
+    "screen_text": []
+  },
+  "visual_checks": {
+    "rei_right_hand_five_fingers_and_pen": "pass",
+    "mikage_identity_and_open_hand": "pass",
+    "shirasaki_original_shared_diff_save": "pass",
+    "three_people_laboratory_daylight": "pass",
+    "props_and_space_continuity": "pass",
+    "text_readability": "pass",
+    "p075_p077_continuity": "pass"
+  },
+  "layers": ["background", "bubble", "utf8_text", "editable_svg"],
+  "sha256_final_png": "7a3957bb86d2494fc1fb6ab130dba25345791ed90f2ac1078d4bc2f9382bbf95",
+  "status": "internal_qa_pass",
+  "user_approval": false,
+  "proof_complete": false,
+  "checked_on": "2026-11-11"
+}
