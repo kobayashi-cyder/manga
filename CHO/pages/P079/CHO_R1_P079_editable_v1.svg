@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1672" height="941" viewBox="0 0 1672 941">
+ <image id="background" width="1672" height="941" xlink:href="CHO_R1_P079_background_v1.png"/>
+ <image id="bubbles" width="1672" height="941" xlink:href="CHO_R1_P079_bubble_layer_v1.png"/>
+ <g id="utf8-japanese-text" fill="#111" font-family="Noto Sans CJK JP" font-size="29" text-anchor="middle">
+  <text x="1335" y="68">原本の所在と、</text><text x="1335" y="108">設備の所在は</text><text x="1335" y="148">別です。</text>
+  <text x="515" y="82">比べる前に、同じものを</text><text x="515" y="122">指しているか確かめよう。</text>
+  <text x="1398" y="569">こっちにも、僕のことが</text><text x="1398" y="609">残ってる？</text>
+  <text x="532" y="581">残っているかもしれない。</text><text x="532" y="621">まだ、確かめていません。</text>
+  <text x="1358" y="400" font-size="19">CHO_CORE</text><text x="230" y="238" font-size="19">運用記録</text><text x="395" y="396" font-size="19">保管記録</text>
+ </g>
+</svg>

@@ -1,0 +1,58 @@
+{
+  "project": "CHO Rebuild v1",
+  "volume": 1,
+  "page": "P079",
+  "title": "鍵のない棚",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_status": "v2 canonical; v4 not applied",
+  "a1_status": "original-reference pending; no new ethical premise added",
+  "canvas": {
+    "width": 1672,
+    "height": 941,
+    "ratio": "16:9 landscape"
+  },
+  "panels": 4,
+  "reading_order": [
+    "top-right",
+    "top-left",
+    "bottom-right",
+    "bottom-left"
+  ],
+  "utf8_typesetting": {
+    "font": "Noto Sans CJK JP",
+    "dialogue": [
+      "原本の所在と、設備の所在は別です。",
+      "比べる前に、同じものを指しているか確かめよう。",
+      "こっちにも、僕のことが残ってる？",
+      "残っているかもしれない。まだ、確かめていません。"
+    ],
+    "screen_text": [
+      "CHO_CORE",
+      "保管記録",
+      "運用記録"
+    ]
+  },
+  "visual_checks": {
+    "shirasaki_identity": "pass",
+    "mikage_identity": "pass",
+    "rei_right_hand_five_fingers": "pass",
+    "paper_and_monitor_order_different": "pass",
+    "storage_doors_closed": "pass",
+    "rei_no_touch": "pass",
+    "no_key_handoff": "pass",
+    "zone_map_line": "pass",
+    "text_readability": "pass",
+    "p078_p080_continuity": "pass"
+  },
+  "layers": [
+    "background",
+    "bubble",
+    "utf8_text",
+    "editable_svg"
+  ],
+  "sha256_final_png": "205cfa429f7bb629e8289bae078b605567dcbbce23aa4f0c5b72881d50ff71a1",
+  "status": "internal_qa_pass",
+  "user_approval": false,
+  "proof_complete": false,
+  "checked_on": "2026-11-11"
+}
