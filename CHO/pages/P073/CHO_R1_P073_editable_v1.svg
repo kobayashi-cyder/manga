@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1672" height="941" viewBox="0 0 1672 941">
+  <image id="background" x="0" y="0" width="1672" height="941" xlink:href="CHO_R1_P073_background_v1.png"/>
+  <g id="bubbles" fill="#fff" fill-opacity="0.97" stroke="#111" stroke-width="4" stroke-linejoin="round">
+    <path d="M38 34 H410 Q432 34 432 56 V145 Q432 167 410 167 H364 L505 211 L390 167 H60 Q38 167 38 145 Z"/>
+    <path d="M25 522 H312 Q334 522 334 544 V635 Q334 657 312 657 H221 L191 692 L198 657 H47 Q25 657 25 635 Z"/>
+    <path d="M455 522 H745 Q767 522 767 544 V635 Q767 657 745 657 H651 L619 692 L626 657 H477 Q455 657 455 635 Z"/>
+  </g>
+  <g id="utf8-japanese-text" fill="#111" font-family="Noto Sans CJK JP" font-weight="500" text-anchor="middle">
+    <text x="235" y="91" font-size="31"><tspan x="235">この言葉は</tspan><tspan x="235" dy="42">まだ要らない。</tspan></text>
+    <text x="1252" y="646" font-size="29">現時点で確認できたこと</text>
+    <text x="180" y="583" font-size="31"><tspan x="180">地味</tspan><tspan x="180" dy="42">ですね。</tspan></text>
+    <text x="610" y="604" font-size="31">それでいい。</text>
+  </g>
+</svg>
