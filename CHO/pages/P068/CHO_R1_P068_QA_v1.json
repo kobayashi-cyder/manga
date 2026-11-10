@@ -1,0 +1,39 @@
+{
+  "page": "P068",
+  "version": "v1",
+  "stage": "internal_qa_pass_user_pending",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_page_panels": 4,
+  "checks": {
+    "reading_order_right_to_left": true,
+    "panel_count_4": true,
+    "dialogue_exact": true,
+    "three_labels_exact": true,
+    "no_extra_generated_text": true,
+    "exactly_three_papers": true,
+    "shirasaki_divides_question_into_three": true,
+    "rei_points_to_future_possibility": true,
+    "rei_healthy_right_hand_five_fingers": true,
+    "mikage_turns_lower_sheet_face_down": true,
+    "silent_fourth_panel": true,
+    "deliberate_space_between_papers": true,
+    "hands_fingers_visual_check": true,
+    "faces_gaze_and_posture_visual_check": true,
+    "text_readability": true,
+    "p067_p069_connection": true,
+    "before_handdrawn_graytone": true,
+    "no_new_a1_ethics_premise": true,
+    "unapproved_v4_not_applied": true,
+    "user_approved": false,
+    "final_proof": false
+  },
+  "exact_text": [
+    "再生した事実",
+    "本人の経験",
+    "将来の可能性",
+    "質問は、この三つを一度に聞いています。",
+    "僕が言えるのは、上の二つです。",
+    "可能性を否定する必要はない。証明したふりをしなければいい。"
+  ],
+  "sha256": "79bc624ea2035791d8e0217723d836cc01da2a7997e99fa2dbc04992b5226017"
+}
