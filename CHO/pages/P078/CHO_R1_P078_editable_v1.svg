@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1672" height="941" viewBox="0 0 1672 941">
+ <image id="background" width="1672" height="941" xlink:href="CHO_R1_P078_background_v1.png"/>
+ <image id="bubbles" width="1672" height="941" xlink:href="CHO_R1_P078_bubble_layer_v1.png"/>
+ <g id="utf8-japanese-text" fill="#111" font-family="Noto Sans CJK JP" font-size="30" text-anchor="middle">
+  <text x="1280" y="84">まず、ここに何が</text><text x="1280" y="126">残っているか。</text>
+  <text x="530" y="84">設備の記録は、</text><text x="530" y="126">こっちです。</text>
+  <text x="1408" y="569">データを守るん</text><text x="1408" y="611">ですか。</text>
+  <text x="560" y="562">人が先だ。</text><text x="560" y="604">そのためにも、</text><text x="560" y="646">状態を確かめる。</text>
+  <text x="299" y="281" font-size="22">CHO_CORE</text>
+  <text x="607" y="898" font-size="24" fill="#fff">次話　第5話『逃げる理由』</text>
+ </g>
+</svg>

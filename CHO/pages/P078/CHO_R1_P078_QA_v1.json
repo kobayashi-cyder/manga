@@ -1,0 +1,57 @@
+{
+  "project": "CHO Rebuild v1",
+  "volume": 1,
+  "page": "P078",
+  "title": "守る場所",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_status": "v2 canonical; v4 not applied",
+  "a1_status": "original-reference pending; no new ethical premise added",
+  "canvas": {
+    "width": 1672,
+    "height": 941,
+    "ratio": "16:9 landscape"
+  },
+  "panels": 4,
+  "reading_order": [
+    "top-right",
+    "top-left",
+    "bottom-right",
+    "bottom-left"
+  ],
+  "utf8_typesetting": {
+    "font": "Noto Sans CJK JP",
+    "dialogue": [
+      "まず、ここに何が残っているか。",
+      "設備の記録は、こっちです。",
+      "データを守るんですか。",
+      "人が先だ。そのためにも、状態を確かめる。"
+    ],
+    "screen_text": [
+      "CHO_CORE"
+    ],
+    "next_episode": "第5話『逃げる理由』"
+  },
+  "visual_checks": {
+    "mikage_identity": "pass",
+    "shirasaki_identity": "pass",
+    "rei_right_hand_five_fingers": "pass",
+    "preservation_record": "pass",
+    "zone_map_name_only": "pass",
+    "door_and_dark_corridor": "pass",
+    "no_cause_or_conspiracy_fixed": "pass",
+    "laboratory_continuity": "pass",
+    "text_readability": "pass",
+    "p077_p079_continuity": "pass"
+  },
+  "layers": [
+    "background",
+    "bubble",
+    "utf8_text",
+    "editable_svg"
+  ],
+  "sha256_final_png": "131171ffb593baec7e3e64e2d0e47ee5da406b592c3dfe18c171f97dce8c8a82",
+  "status": "internal_qa_pass",
+  "user_approval": false,
+  "proof_complete": false,
+  "checked_on": "2026-11-11"
+}
