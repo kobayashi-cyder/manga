@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1672" height="941" viewBox="0 0 1672 941">
+ <image id="background" width="1672" height="941" xlink:href="CHO_R1_P077_background_v1.png"/>
+ <g id="bubbles" fill="#fff" fill-opacity="0.97" stroke="#111" stroke-width="4"><rect x="36" y="35" width="344" height="155" rx="24"/><rect x="872" y="515" width="363" height="170" rx="24"/><rect x="492" y="515" width="326" height="150" rx="24"/><rect x="1020" y="300" width="495" height="70" rx="14" stroke-width="3"/></g>
+ <g id="utf8-japanese-text" fill="#111" font-family="Noto Sans CJK JP" font-size="30" font-weight="500" text-anchor="middle">
+  <text x="208" y="96">今度は、保管場所の</text><text x="208" y="139">確認です。</text>
+  <text x="1054" y="579">外に答える前に、</text><text x="1054" y="622">内側を確かめよう。</text>
+  <text x="655" y="574">僕も、聞いて</text><text x="655" y="617">いいですか。</text>
+  <text x="1268" y="344" font-size="27">記録保全状況の照会</text>
+ </g>
+</svg>

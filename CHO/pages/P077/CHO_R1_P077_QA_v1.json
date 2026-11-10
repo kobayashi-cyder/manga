@@ -1,0 +1,11 @@
+{
+ "project":"CHO Rebuild v1","volume":1,"page":"P077","title":"別の通知",
+ "source":"CHO_R1_Vol1_P001-P180_full_name_v2.md","source_status":"v2 canonical; v4 not applied",
+ "a1_status":"original-reference pending; no new ethical premise added",
+ "canvas":{"width":1672,"height":941,"ratio":"16:9 landscape"},"panels":4,
+ "reading_order":["top-right","top-left","bottom-right","bottom-left"],
+ "utf8_typesetting":{"font":"Noto Sans CJK JP","dialogue":["今度は、保管場所の確認です。","外に答える前に、内側を確かめよう。","僕も、聞いていいですか。"],"screen_text":["記録保全状況の照会"]},
+ "visual_checks":{"terminal_notification":"pass","shirasaki_head_tilt":"pass","mikage_identity_and_gesture":"pass","rei_right_hand_five_fingers":"pass","laboratory_continuity":"pass","text_readability":"pass","p076_p078_continuity":"pass"},
+ "layers":["background","bubble","utf8_text","editable_svg"],"sha256_final_png":"7d6e70cd51fa4362d3fb7c952e603420f5023e81f99531db816c976c48890511",
+ "status":"internal_qa_pass","user_approval":false,"proof_complete":false,"checked_on":"2026-11-11"
+}
