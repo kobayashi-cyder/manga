@@ -1,0 +1,40 @@
+{
+  "page": "P071",
+  "version": "v1",
+  "stage": "internal_qa_pass_user_pending",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_page_panels": 4,
+  "checks": {
+    "reading_order_right_to_left": true,
+    "panel_count_4": true,
+    "dialogue_exact": true,
+    "display_labels_exact": true,
+    "no_extra_generated_text": true,
+    "shirasaki_reads_answer_draft": true,
+    "shirasaki_subject_line_exact": true,
+    "rei_brow_slightly_furrowed": true,
+    "rei_first_person_line_exact": true,
+    "mikage_separates_view_and_voice": true,
+    "mikage_separation_line_exact": true,
+    "paper_upper_lower_labels": true,
+    "fourth_panel_silent": true,
+    "hands_fingers_visual_check": true,
+    "faces_gaze_and_posture_visual_check": true,
+    "lab_room_and_paper_continuity": true,
+    "text_readability": true,
+    "p070_p072_connection": true,
+    "before_handdrawn_graytone": true,
+    "no_new_a1_ethics_premise": true,
+    "unapproved_v4_not_applied": true,
+    "user_approved": false,
+    "final_proof": false
+  },
+  "exact_text": [
+    "『被験者は』と書いてあります。",
+    "『僕は』じゃ、だめですか。",
+    "私たちの見解と、君の言葉を分ければいい。",
+    "研究室の見解",
+    "本人の声"
+  ],
+  "sha256": "84bacdf2174f2139f8896f6eda823639cb3a8d4eb2d29e20f4baefac20333c09"
+}
