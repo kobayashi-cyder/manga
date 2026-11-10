@@ -1,0 +1,33 @@
+{
+  "project": "CHO Rebuild v1",
+  "volume": 1,
+  "page": "P073",
+  "title": "見出しを消す",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_status": "v2 canonical; v4 not applied",
+  "a1_status": "original-reference pending; no new ethical premise added",
+  "canvas": {"width": 1672, "height": 941, "ratio": "16:9 landscape"},
+  "panels": 4,
+  "reading_order": ["top-right", "top-left", "bottom-right", "bottom-left"],
+  "utf8_typesetting": {
+    "font": "Noto Sans CJK JP",
+    "dialogue": ["この言葉はまだ要らない。", "地味ですね。", "それでいい。"],
+    "screen_text": ["現時点で確認できたこと"]
+  },
+  "visual_checks": {
+    "mikage_glasses_hair_beard_labcoat": "pass",
+    "rei_hair_hoodie_crossbody_strap": "pass",
+    "hands_fingers_keyboard_action": "pass",
+    "monitor_and_lab_continuity": "pass",
+    "provisional_heading_stopped_then_deleted": "pass",
+    "final_screen_keeps_only_confirmed_title": "pass",
+    "dialogue_readability": "pass",
+    "p072_p074_continuity": "pass"
+  },
+  "layers": ["background", "bubble", "utf8_text", "editable_svg"],
+  "sha256_final_png": "90bdb1175e5033c99097d222ed1f24c3547742728eaa9da9676be60a4b06c7f6",
+  "status": "internal_qa_pass",
+  "user_approval": false,
+  "proof_complete": false,
+  "checked_on": "2026-11-10"
+}
