@@ -1,0 +1,36 @@
+{
+  "page": "P070",
+  "version": "v1",
+  "stage": "internal_qa_pass_user_pending",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_page_panels": 4,
+  "checks": {
+    "reading_order_right_to_left": true,
+    "panel_count_4": true,
+    "dialogue_exact": true,
+    "no_extra_generated_text": true,
+    "mikage_question_line_exact": true,
+    "rei_grips_shoulder_strap": true,
+    "rei_healthy_hand_five_fingers": true,
+    "rei_waiting_people_line_exact": true,
+    "mikage_unmade_answer_line_exact": true,
+    "rei_raises_face": true,
+    "fourth_panel_silent": true,
+    "hands_fingers_visual_check": true,
+    "faces_gaze_and_posture_visual_check": true,
+    "lab_room_props_continuity": true,
+    "text_readability": true,
+    "p069_p071_connection": true,
+    "before_handdrawn_graytone": true,
+    "no_new_a1_ethics_premise": true,
+    "unapproved_v4_not_applied": true,
+    "user_approved": false,
+    "final_proof": false
+  },
+  "exact_text": [
+    "裏切るのは、何だと思う。",
+    "待っている人の気持ち……。",
+    "まだ無い答えを、あるように言うことだと思う。"
+  ],
+  "sha256": "75f4d327612a5c3a3acb21d556f3fb4deeff2d074fb149fc37cf4e84b296c818"
+}
