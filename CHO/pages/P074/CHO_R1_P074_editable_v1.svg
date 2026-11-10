@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1672" height="941" viewBox="0 0 1672 941">
+  <image id="background" x="0" y="0" width="1672" height="941" xlink:href="CHO_R1_P074_background_v1.png"/>
+  <g id="bubbles" fill="#fff" fill-opacity="0.97" stroke="#111" stroke-width="4" stroke-linejoin="round">
+    <path d="M30 30 H405 Q429 30 429 54 V154 Q429 178 405 178 H357 L455 226 L380 178 H54 Q30 178 30 154 Z"/>
+    <path d="M1190 525 H1634 Q1658 525 1658 549 V677 Q1658 701 1634 701 H1456 L1324 746 L1418 701 H1214 Q1190 701 1190 677 Z"/>
+    <path d="M25 523 H443 Q467 523 467 547 V676 Q467 700 443 700 H346 L403 746 L309 700 H49 Q25 700 25 676 Z"/>
+  </g>
+  <g id="utf8-japanese-text" fill="#111" font-family="Noto Sans CJK JP" font-weight="500" text-anchor="middle">
+    <text x="230" y="78" font-size="28"><tspan x="230">位置誤差の指標は、</tspan><tspan x="230" dy="39">形状についての</tspan><tspan x="230" dy="39">ものです。</tspan></text>
+    <text x="1424" y="571" font-size="27"><tspan x="1424">感覚は日ごとに</tspan><tspan x="1424" dy="38">変わるかもしれない。</tspan><tspan x="1424" dy="38">僕の報告は残す。</tspan></text>
+    <text x="246" y="565" font-size="27"><tspan x="246">未検証は未検証として</tspan><tspan x="246" dy="39">記す。</tspan><tspan x="246" dy="39">……よし。</tspan></text>
+  </g>
+</svg>
