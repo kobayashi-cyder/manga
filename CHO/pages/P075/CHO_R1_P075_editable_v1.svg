@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1672" height="941" viewBox="0 0 1672 941">
+  <image id="background" x="0" y="0" width="1672" height="941" xlink:href="CHO_R1_P075_background_v1.png"/>
+  <g id="bubbles" fill="#fff" fill-opacity="0.97" stroke="#111" stroke-width="4" stroke-linejoin="round">
+    <path d="M892 510 H1225 Q1249 510 1249 534 V617 Q1249 641 1225 641 H1186 L1328 683 L1210 641 H916 Q892 641 892 617 Z"/>
+  </g>
+  <g id="utf8-japanese-text" fill="#111" font-family="Noto Sans CJK JP" font-weight="500" text-anchor="middle">
+    <text x="758" y="298" font-size="36">回答を提出</text>
+    <text x="1074" y="744" font-size="34">受領</text>
+    <text x="1070" y="587" font-size="32">届きました。</text>
+  </g>
+</svg>

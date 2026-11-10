@@ -1,0 +1,33 @@
+{
+  "project": "CHO Rebuild v1",
+  "volume": 1,
+  "page": "P075",
+  "title": "送信",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_status": "v2 canonical; v4 not applied",
+  "a1_status": "original-reference pending; no new ethical premise added",
+  "canvas": {"width": 1672, "height": 941, "ratio": "16:9 landscape"},
+  "panels": 3,
+  "reading_order": ["top-wide", "bottom-right", "bottom-left"],
+  "utf8_typesetting": {
+    "font": "Noto Sans CJK JP",
+    "dialogue": ["届きました。"],
+    "screen_text": ["回答を提出", "受領"]
+  },
+  "visual_checks": {
+    "shirasaki_finger_submit_action": "pass",
+    "hand_fingers_anatomy": "pass",
+    "submit_button_and_receipt_notice": "pass",
+    "no_recipient_or_purpose_invented": "pass",
+    "three_faces_and_rei_exhale": "pass",
+    "laboratory_monitor_continuity": "pass",
+    "text_readability": "pass",
+    "p074_p076_continuity": "pass"
+  },
+  "layers": ["background", "bubble", "utf8_text", "editable_svg"],
+  "sha256_final_png": "4a107333ac7b0a9d1af2b2940d0201be79e8b389b557229a3f576d5127d1ae88",
+  "status": "internal_qa_pass",
+  "user_approval": false,
+  "proof_complete": false,
+  "checked_on": "2026-11-11"
+}
