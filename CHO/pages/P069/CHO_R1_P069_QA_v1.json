@@ -1,0 +1,36 @@
+{
+  "page": "P069",
+  "version": "v1",
+  "stage": "internal_qa_pass_user_pending",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_page_panels": 4,
+  "checks": {
+    "reading_order_right_to_left": true,
+    "panel_count_4": true,
+    "dialogue_exact": true,
+    "no_extra_generated_text": true,
+    "corridor_window_present": true,
+    "distant_anonymous_figure_wavers": true,
+    "first_panel_silent": true,
+    "rei_expectation_line_exact": true,
+    "rei_healthy_right_hand_five_fingers": true,
+    "shirasaki_closes_notebook": true,
+    "shirasaki_command_line_exact": true,
+    "rei_closeup_fear_line_exact": true,
+    "hands_fingers_visual_check": true,
+    "faces_gaze_and_posture_visual_check": true,
+    "text_readability": true,
+    "p068_p070_connection": true,
+    "before_handdrawn_graytone": true,
+    "no_new_a1_ethics_premise": true,
+    "unapproved_v4_not_applied": true,
+    "user_approved": false,
+    "final_proof": false
+  },
+  "exact_text": [
+    "誰かに期待されたら、応えたくなるんです。",
+    "期待は、あなたへの命令ではありません。",
+    "でも、裏切るのが怖い。"
+  ],
+  "sha256": "1d18ad44e72beb7ceb9277009faedcdc545af37976f9cecacafb901f2bf32df9"
+}
