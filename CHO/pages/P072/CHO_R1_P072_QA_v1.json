@@ -1,0 +1,36 @@
+{
+  "page": "P072",
+  "version": "v1",
+  "stage": "internal_qa_pass_user_pending",
+  "source": "CHO_R1_Vol1_P001-P180_full_name_v2.md",
+  "source_page_panels": 4,
+  "checks": {
+    "reading_order_right_to_left": true,
+    "panel_count_4": true,
+    "dialogue_exact": true,
+    "no_extra_generated_text": true,
+    "same_limited_sharing_explanation_from_p057": true,
+    "shirasaki_same_scope_line_exact": true,
+    "rei_other_destination_line_exact": true,
+    "shirasaki_consult_again_line_exact": true,
+    "rei_rereads_own_line": true,
+    "rei_consent_line_exact": true,
+    "hands_fingers_visual_check": true,
+    "faces_gaze_and_posture_visual_check": true,
+    "lab_room_document_and_answer_continuity": true,
+    "text_readability": true,
+    "p071_p073_connection": true,
+    "before_handdrawn_graytone": true,
+    "no_new_a1_ethics_premise": true,
+    "unapproved_v4_not_applied": true,
+    "user_approved": false,
+    "final_proof": false
+  },
+  "exact_text": [
+    "今回の文章も、同じ範囲で送ります。",
+    "もし別の場所へ渡すなら？",
+    "改めて、相談します。",
+    "なら、これを使ってください。"
+  ],
+  "sha256": "75d90106e84b555972f005c1a1dab6a397377c2f2b4364744baa11d6753bea09"
+}
